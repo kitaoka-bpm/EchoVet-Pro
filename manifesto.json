@@ -1,6 +1,6 @@
 {
-  "versao_app": "2.0.3",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.0.3/EchoVetPro.exe",
-  "hash_sha256": "4b47dcbe488abc8e73300f9cbd1ad90026ca833f2d9f010f167111d780aedca2",
-  "notas": "Primeira versão de distribuição."
+  "versao_app": "2.0.4",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.0.4/EchoVetPro.exe",
+  "hash_sha256": "c6b055b85b918e89833071137c9e5315918c7c6b6fe3fdc932181add67baf482",
+  "notas": "Correção: rodapé do laudo PDF desconfigurado ao salvar."
 }
