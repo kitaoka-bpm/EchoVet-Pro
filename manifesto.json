@@ -1,6 +1,6 @@
 {
-  "versao_app": "2.3.0",
+  "versao_app": "2.3.1",
   "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.3.0/EchoVetPro.exe",
-  "hash_sha256": "fda00a9b9e9a0477aad5b2fb4c2d1d2a5180ba0d1aef4740cfc1a19a08f4f707",
+  "hash_sha256": "b88a75fd04240f5895f6da0f1a784c249a312d6c83bc10a84fcd7230b92c5fb4",
   "notas": "Correcao de OCR Mindray, extracao de Ao/LA/relacao LA-Ao e sistema de perfis com atualizacao automatica de rotulos."
 }
