@@ -1,6 +1,6 @@
 {
-  "versao_app": "2.0.8",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.0.8/EchoVetPro.exe",
-  "hash_sha256": "c7325e45a435a09845be6e948e6fc4615559b10fb022f13077a78247d3461df4",
-  "notas": "Correção: atualização automática agora substitui o programa corretamente."
+  "versao_app": "2.0.9",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.0.9/EchoVetPro.exe",
+  "hash_sha256": "915ac5520fae0374ea2ba122e386a520e0d65e77940310d3bb77e12a08f7725a",
+  "notas": "Correção definitiva da atualização automática."
 }
