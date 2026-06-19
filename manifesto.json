@@ -1,6 +1,6 @@
 {
-  "versao_app": "2.1.2",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.1.2/EchoVetPro.exe",
-  "hash_sha256": "0e7fae0fe6b95734eefcb2836aef5e77c19f145ac6ca153b06c65dc5884b9fdc",
-  "notas": "IA detecta unidade de cada campo no PDF (mm/cm/m/s/cm/s) para conversão automática correta."
+  "versao_app": "2.3.0",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.3.0/EchoVetPro.exe",
+  "hash_sha256": "ed615536dcbdfa9a94a6b76efdee03dd3c9f29cb6bd90d70926623c856fd939e",
+  "notas": "Correcao de OCR Mindray, extracao de Ao/LA/relacao LA-Ao e sistema de perfis com atualizacao automatica de rotulos."
 }
