@@ -1,6 +1,6 @@
 {
-  "versao_app": "2.1.1",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.1.1/EchoVetPro.exe",
-  "hash_sha256": "e831c48505b556b5dcfb42cd6ce092b88c83eeba7bbcc3e9e769425a485df7fc",
-  "notas": "Correção crítica: valores de velocidade Doppler corrigidos. Campos calculados preenchidos automaticamente após extração do PDF."
+  "versao_app": "2.1.2",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.1.2/EchoVetPro.exe",
+  "hash_sha256": "0e7fae0fe6b95734eefcb2836aef5e77c19f145ac6ca153b06c65dc5884b9fdc",
+  "notas": "IA detecta unidade de cada campo no PDF (mm/cm/m/s/cm/s) para conversão automática correta."
 }
