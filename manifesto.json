@@ -1,6 +1,6 @@
 {
-  "versao_app": "2.3.6",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.3.6/EchoVetPro.exe",
-  "hash_sha256": "0ffc8a296349c54dd406b15b0676f1f5cf07a4bee5edced780091a30ebb890e3",
-  "notas": "Correções: acumulação de frases em Observações/Conclusões e frases de prolapso valvar atualizadas."
+  "versao_app": "2.3.7",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.3.7/EchoVetPro.exe",
+  "hash_sha256": "77d1f408d30c0b06da905cb00e97dc087e77652d589b848347d4bfb50b5fca90",
+  "notas": "Unidades de medida no laudo (Modo M/B e Função Sistólica), extração de FC melhorada, RDAPs/RDAPd renomeados, valores do laudo editáveis no navegador."
 }
