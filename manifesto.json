@@ -1,6 +1,6 @@
 {
-  "versao_app": "2.0.6",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.0.6/EchoVetPro.exe",
-  "hash_sha256": "c107b3ac01e23eb774b134c40523639b000ee14d24a2f0a3d2aa6b83df10dbda",
-  "notas": "Correção: tema visual dark agora aplicado corretamente após atualização."
+  "versao_app": "2.0.7",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.0.7/EchoVetPro.exe",
+  "hash_sha256": "f16d05bbb8b13c6780218ad1339ce0f72f2878c402f1302b3930aff5d0d5600a",
+  "notas": "Correção: notificação de atualização aparecia toda vez ao abrir o programa."
 }
