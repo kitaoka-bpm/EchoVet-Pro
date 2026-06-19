@@ -1,6 +1,6 @@
 {
-  "versao_app": "2.3.4",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.3.4/EchoVetPro.exe",
-  "hash_sha256": "6b24fae673298613173c42876948900fde695b92f243e322d4bd1b501c4f76d5",
-  "notas": "Correções no laudo: unidades na Função Diastólica, Observações/Conclusões automáticas e layout do Doppler Espectral."
+  "versao_app": "2.3.5",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.3.5/EchoVetPro.exe",
+  "hash_sha256": "e2aa58aafe89f32941ffe529a72166facc81e06837e00c20f1cdc4664a2527e2",
+  "notas": "Correção no banco de frases: botões de Observações e Conclusões voltam a funcionar após cadastrar nova frase."
 }
