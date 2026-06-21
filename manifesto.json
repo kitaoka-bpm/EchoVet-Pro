@@ -1,6 +1,6 @@
 {
-  "versao_app": "2.5.2",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.5.2/EchoVetPro.exe",
-  "hash_sha256": "ad509d1d51c54b665d36eb1107b42a6fc4e4718f0618489d0ccfa74f308abb92",
-  "notas": "Barra de progresso na atualizacao. Fix nome paciente vs veterinario no AI Vision."
+  "versao_app": "2.5.3",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.5.3/EchoVetPro.exe",
+  "hash_sha256": "4cff18c499e075d81bd11d5429018f4b8955c04fc479e074e32b820bc90b0374",
+  "notas": "Fix barra de progresso na atualizacao automatica."
 }
