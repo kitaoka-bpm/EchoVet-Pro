@@ -14,7 +14,6 @@
     "FS":              "DeltaD",
     "EPSS":            "ESEPTO",
     "TAPSE":           "TAPSE",
-    "TAMSE":           "TAPSE",
     "MAPSE":           "MAPSE",
     "IDRDAP":          "IDRDAP_str",
     "HR":              "FC",
@@ -52,7 +51,8 @@
     "LVEDV", "LVESV", "SV", "EF",
     "LVIDd Index", "LVIDs Index", "LVPWd Index",
     "LVEF", "LVSV", "LVMI",
-    "TAM"
+    "TAM",
+    "TAMSE"
   ],
 
   "config_blacklist": [
