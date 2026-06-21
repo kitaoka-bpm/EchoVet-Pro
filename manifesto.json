@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.2.6.0",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.6.0/EchoVetPro.exe",
-  "hash_sha256": "b236136def5d413d665d404152c57e793929b73f85e9e081ff2367d2f30e96c1",
-  "notas": "Assinatura e marca d'água voltam ao laudo. Extração de imagens mais precisa. Rodapé centralizado."
+  "versao_app": "v.2.6.1",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.6.1/EchoVetPro.exe",
+  "hash_sha256": "df8cc1d852cd3f58b11f62ac0b8c72a5fb4f4d3b93a56655ad014369a4fbc3c4",
+  "notas": "Atualização automática definitivamente corrigida. Instale esta versão uma última vez pelo link — próximas atualizações serão automáticas."
 }
