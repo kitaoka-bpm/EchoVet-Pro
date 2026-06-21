@@ -1,6 +1,6 @@
 {
-  "versao_app": "2.4.0",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.4.0/EchoVetPro.exe",
-  "hash_sha256": "81d5fac04f97c0d0f0746bd1aa51779a6e65d4237a97661b7a4c1a57c5a8f91c",
-  "notas": "AI Vision para imagens, unidades cm/mm configuráveis, assinatura digital, rodapé selecionável, referências opcionais, laudo otimizado."
+  "versao_app": "2.4.1",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.4.1/EchoVetPro.exe",
+  "hash_sha256": "cf3f24c9a26269008e6c8067b5c5336de0d9e58650a49e762d9d9db99c4f025a",
+  "notas": "Fix: atualização automática não instalava corretamente."
 }
