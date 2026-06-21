@@ -1,6 +1,6 @@
 {
-  "versao_app": "2.3.7",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.3.7/EchoVetPro.exe",
-  "hash_sha256": "77d1f408d30c0b06da905cb00e97dc087e77652d589b848347d4bfb50b5fca90",
-  "notas": "Unidades de medida no laudo (Modo M/B e Função Sistólica), extração de FC melhorada, RDAPs/RDAPd renomeados, valores do laudo editáveis no navegador."
+  "versao_app": "2.4.0",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.4.0/EchoVetPro.exe",
+  "hash_sha256": "81d5fac04f97c0d0f0746bd1aa51779a6e65d4237a97661b7a4c1a57c5a8f91c",
+  "notas": "AI Vision para imagens, unidades cm/mm configuráveis, assinatura digital, rodapé selecionável, referências opcionais, laudo otimizado."
 }
