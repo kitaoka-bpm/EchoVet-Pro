@@ -1,5 +1,5 @@
 {
-  "versao": "1.3",
+  "versao": "1.4",
 
   "rotulos": {
     "IVSd":              "SIVd",
@@ -14,8 +14,8 @@
     "EF(M-Teich)":       "FE",
     "FS":                "DeltaD",
     "%FS(M)":            "DeltaD",
-    "LVEDV(M-Teich)":   "EDVsimp",
-    "LVESV(M-Teich)":   "ESVsimp",
+    "LVEDV(M-Teich)":   "EDV",
+    "LVESV(M-Teich)":   "ESV",
     "EPSS":              "ESEPTO",
     "TAPSE":             "TAPSE",
     "MAPSE":             "MAPSE",
