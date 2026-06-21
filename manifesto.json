@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.2.5.9",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.5.9/EchoVetPro.exe",
-  "hash_sha256": "7f18389942aeaf75da7faa4fe8a0871d7a3b6df2a8e3e6e9004e41dedf89c6fa",
-  "notas": "Preset 2 aprimorado: páginas 2+3 fundidas, espaçamento melhor distribuído. Correção de extração de imagens."
+  "versao_app": "v.2.6.0",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.6.0/EchoVetPro.exe",
+  "hash_sha256": "b236136def5d413d665d404152c57e793929b73f85e9e081ff2367d2f30e96c1",
+  "notas": "Assinatura e marca d'água voltam ao laudo. Extração de imagens mais precisa. Rodapé centralizado."
 }
