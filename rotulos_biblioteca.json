@@ -1,5 +1,5 @@
 {
-  "versao": "2.6",
+  "versao": "2.7",
 
   "rotulos": {
     "IVSd":              "SIVd",
@@ -63,6 +63,24 @@
 
     "EDV(Teich)":        "EDV",
     "ESV(Teich)":        "ESV",
+    "LVEDV(Teich)":      "EDV",
+    "LVESV(Teich)":      "ESV",
+    "EDV(M-Teich)":      "EDV",
+    "ESV(M-Teich)":      "ESV",
+    "LVEDV(A4C)":        "EDVsimp",
+    "LVESV(A4C)":        "ESVsimp",
+    "EDV(A4C)":          "EDVsimp",
+    "ESV(A4C)":          "ESVsimp",
+    "LVEDV(Simp)":       "EDVsimp",
+    "LVESV(Simp)":       "ESVsimp",
+    "EDV(Simp)":         "EDVsimp",
+    "ESV(Simp)":         "ESVsimp",
+    "LVEDV(Simpson)":    "EDVsimp",
+    "LVESV(Simpson)":    "ESVsimp",
+    "EDV(Simpson)":      "EDVsimp",
+    "ESV(Simpson)":      "ESVsimp",
+    "LVEDV(MOD)":        "EDVsimp",
+    "LVESV(MOD)":        "ESVsimp",
     "Diám Ao":           "DiamAo",
     "Diam Ao":           "DiamAo",
     "Diám LA":           "DiamAE",
