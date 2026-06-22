@@ -1,5 +1,5 @@
 {
-  "versao": "2.7",
+  "versao": "2.8",
 
   "rotulos": {
     "IVSd":              "SIVd",
@@ -81,6 +81,16 @@
     "ESV(Simpson)":      "ESVsimp",
     "LVEDV(MOD)":        "EDVsimp",
     "LVESV(MOD)":        "ESVsimp",
+    "EDV(4C)":           "EDVsimp",
+    "ESV(4C)":           "ESVsimp",
+    "LVEDV(4C)":         "EDVsimp",
+    "LVESV(4C)":         "ESVsimp",
+    "EF(A4C)":           "FESIMP",
+    "EF(4C)":            "FESIMP",
+    "EF(Simp)":          "FESIMP",
+    "EF(Simpson)":       "FESIMP",
+    "SV(A4C)":           "VSsimp",
+    "SV(4C)":            "VSsimp",
     "Diám Ao":           "DiamAo",
     "Diam Ao":           "DiamAo",
     "Diám LA":           "DiamAE",
@@ -119,7 +129,9 @@
     "Vmed LVOT", "PGmed LVOT", "Vmax LVOT", "PGmax LVOT",
     "VS(VTI)", "DC(VTI)",
     "TA|TE", "TAVP Time",
-    "AOp Distance", "APp Distance"
+    "AOp Distance", "APp Distance",
+    "EDV Index(A4C)", "ESV Index(A4C)", "SI(A4C)", "SV Index(A4C)",
+    "EDV Index(4C)", "ESV Index(4C)", "SI(4C)", "SV Index(4C)"
   ],
 
   "config_blacklist": [
