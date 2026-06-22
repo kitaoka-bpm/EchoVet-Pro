@@ -1,5 +1,5 @@
 {
-  "versao": "2.20",
+  "versao": "2.21",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -172,7 +172,8 @@
     "2 D9",
     "3 LVIDp",
     "1 D4",
-    "LVID Index (M)"
+    "LVID Index (M)",
+    "CO (M-Teich)"
   ],
   "config_blacklist": [
     "DP",
