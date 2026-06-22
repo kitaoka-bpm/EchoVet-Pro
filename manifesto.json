@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.2.7.3",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.7.3/EchoVetPro.exe",
-  "hash_sha256": "4c4747e3416d9062bc505bb246ba326ccc9057f9336f15b9858204b8a785f649",
-  "notas": "Retry automatico quando servico de IA sobrecarregado. Mensagens de erro mais claras."
+  "versao_app": "v.2.7.4",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.7.4/EchoVetPro.exe",
+  "hash_sha256": "ba219c5970298f4512abc18d36daf1f4a4aa7a486d9cb945a104e6dcf74d5596",
+  "notas": "Correcao definitiva do auto-update."
 }
