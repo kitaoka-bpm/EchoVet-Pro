@@ -1,5 +1,5 @@
 {
-  "versao": "2.3",
+  "versao": "2.4",
 
   "rotulos": {
     "IVSd":              "SIVd",
@@ -99,9 +99,9 @@
     "PG",
     "Área LVOT", "Area LVOT",
     "MV E PG", "MV A PG",
-    "Vmed LVOT", "PGmed LVOT",
+    "Vmed LVOT", "PGmed LVOT", "Vmax LVOT", "PGmax LVOT",
     "VS(VTI)", "DC(VTI)",
-    "TA|TE"
+    "TA|TE", "TAVP Time"
   ],
 
   "config_blacklist": [
