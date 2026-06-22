@@ -1,5 +1,5 @@
 {
-  "versao": "2.9",
+  "versao": "2.10",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -164,7 +164,8 @@
     "EDV Index(4C)",
     "ESV Index(4C)",
     "SI(4C)",
-    "SV Index(4C)"
+    "SV Index(4C)",
+    "TEST_LABEL2"
   ],
   "config_blacklist": [
     "DP",
