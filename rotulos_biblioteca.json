@@ -1,5 +1,5 @@
 {
-  "versao": "1.9",
+  "versao": "2.0",
 
   "rotulos": {
     "IVSd":              "SIVd",
@@ -10,12 +10,15 @@
     "LA Diam":           "DiamAE",
     "Ao Diam":           "DiamAo",
     "LA/Ao":             "AEAo_str",
+    "AE/Ao":             "AEAo_str",
     "EF(Teich)":         "FE",
     "EF(M-Teich)":       "FE",
     "FS":                "DeltaD",
     "%FS(M)":            "DeltaD",
     "LVEDV(M-Teich)":   "EDV",
     "LVESV(M-Teich)":   "ESV",
+    "LVEDV(M)":          "EDV",
+    "LVESV(M)":          "ESV",
     "EPSS":              "ESEPTO",
     "TAPSE":             "TAPSE",
     "MAPSE":             "MAPSE",
