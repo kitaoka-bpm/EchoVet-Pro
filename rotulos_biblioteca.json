@@ -1,5 +1,5 @@
 {
-  "versao": "2.11",
+  "versao": "2.12",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -107,7 +107,7 @@
     "E/TRIV": "RelETRIV_str",
     "RDAPs Dist": "RDAPmax",
     "RDAPd Dist": "RDAPmin",
-    "MV E'/E' Lateral": "EEm"
+    "IDRDAP S*": "RDAPmax"
   },
   "ignorar": [
     "LVID",
