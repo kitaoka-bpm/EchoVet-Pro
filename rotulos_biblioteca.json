@@ -1,5 +1,5 @@
 {
-  "versao": "1.5",
+  "versao": "1.7",
 
   "rotulos": {
     "IVSd":              "SIVd",
@@ -58,7 +58,12 @@
     "LVIDd Index", "LVIDs Index", "LVPWd Index",
     "LVEF", "LVSV", "LVMI",
     "TAM", "TAMSE",
-    "1 D", "2 D", "1.D", "2.D"
+    "LVID",
+    "1 D", "2 D", "1.D", "2.D",
+    "LVID Mass(M)", "SV(M-Teich)",
+    "LVIDd Index(M)", "LVIDs Index(M)",
+    "%IVS(M)", "%VPW(M)",
+    "PG", "MAM"
   ],
 
   "config_blacklist": [
