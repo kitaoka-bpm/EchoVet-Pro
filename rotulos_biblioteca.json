@@ -1,5 +1,5 @@
 {
-  "versao": "2.16",
+  "versao": "2.17",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -110,7 +110,9 @@
     "IDRDAP d*": "RDAPmin"
   },
   "ignorar": [
-    "LVID", "LA", "Ao",
+    "LVID",
+    "LA",
+    "Ao",
     "SV(M-Teich)",
     "SI(M-Teich)",
     "LVIDd Index(M)",
@@ -166,7 +168,8 @@
     "SI(4C)",
     "SV Index(4C)",
     "TEST_LABEL2",
-    "TEVP Time*"
+    "TEVP Time*",
+    "2 D9"
   ],
   "config_blacklist": [
     "DP",
