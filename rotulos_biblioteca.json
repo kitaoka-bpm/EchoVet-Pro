@@ -110,7 +110,7 @@
     "IDRDAP d*": "RDAPmin"
   },
   "ignorar": [
-    "LVID",
+    "LVID", "LA", "Ao",
     "SV(M-Teich)",
     "SI(M-Teich)",
     "LVIDd Index(M)",
