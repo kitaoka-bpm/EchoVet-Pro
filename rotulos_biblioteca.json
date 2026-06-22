@@ -1,5 +1,5 @@
 {
-  "versao": "1.8",
+  "versao": "1.9",
 
   "rotulos": {
     "IVSd":              "SIVd",
@@ -55,7 +55,8 @@
     "SV(M-Teich)", "SI(M-Teich)",
     "LVIDd Index(M)", "LVIDs Index(M)",
     "LVD Mass(M)", "LVID Mass(M)",
-    "%IVS(M)", "%VPW(M)", "%PW(M)", "LVPW(M)",
+    "%IVS(M)", "%VPW(M)", "%PW(M)", "%LVPW(M)", "LVPW(M)",
+    "LVIDdN(M)", "LVIDN(M)",
     "LVEDV", "LVESV", "SV", "EF",
     "LVIDd Index", "LVIDs Index", "LVPWd Index",
     "LVEF", "LVSV", "LVMI",
