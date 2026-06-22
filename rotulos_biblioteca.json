@@ -1,5 +1,5 @@
 {
-  "versao": "2.14",
+  "versao": "2.15",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -14,7 +14,6 @@
     "LVIDs": "DIVEs",
     "LVESD": "DIVEs",
     "LA Diam": "DiamAE",
-    "LAD": "DiamAE",
     "Ao Diam": "DiamAo",
     "LA/Ao": "AEAo_str",
     "AE/Ao": "AEAo_str",
