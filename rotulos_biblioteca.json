@@ -1,5 +1,5 @@
 {
-  "versao": "1.7",
+  "versao": "1.8",
 
   "rotulos": {
     "IVSd":              "SIVd",
@@ -51,19 +51,17 @@
   },
 
   "ignorar": [
-    "IVSs", "LVPWs",
-    "SV(M-Teich)", "LVIDd Index(M)", "LVIDs Index(M)",
-    "LVD Mass(M)", "%IVS(M)", "%VPW(M)",
+    "IVSs", "LVPWs", "LVID",
+    "SV(M-Teich)", "SI(M-Teich)",
+    "LVIDd Index(M)", "LVIDs Index(M)",
+    "LVD Mass(M)", "LVID Mass(M)",
+    "%IVS(M)", "%VPW(M)", "%PW(M)", "LVPW(M)",
     "LVEDV", "LVESV", "SV", "EF",
     "LVIDd Index", "LVIDs Index", "LVPWd Index",
     "LVEF", "LVSV", "LVMI",
-    "TAM", "TAMSE",
-    "LVID",
+    "TAM", "TAM(M)", "TAMSE", "MAM",
     "1 D", "2 D", "1.D", "2.D",
-    "LVID Mass(M)", "SV(M-Teich)",
-    "LVIDd Index(M)", "LVIDs Index(M)",
-    "%IVS(M)", "%VPW(M)",
-    "PG", "MAM"
+    "PG"
   ],
 
   "config_blacklist": [
