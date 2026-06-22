@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.2.7.0",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.7.0/EchoVetPro.exe",
-  "hash_sha256": "4203d8ea02b1ccc61112ed20ce08453f39fbdd0042ba89c216498cc9bc929a7d",
-  "notas": "Nova arquitetura de extração de imagens: mais precisa e inteligente. Atualização automática melhorada."
+  "versao_app": "v.2.7.1",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.7.1/EchoVetPro.exe",
+  "hash_sha256": "bc25201e4a1ba909c68abdb63a154ebd7a87f1e86a306693a649fe2f06f51dcd",
+  "notas": "Correção crítica: auto-update funcionando corretamente."
 }
