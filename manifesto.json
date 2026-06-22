@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.2.7.2",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.7.2/EchoVetPro.exe",
-  "hash_sha256": "3e366268f8bfd82e78e75ffbb8dc0d82f33ced9324b5ae6cb294ca7ad6ae5d65",
-  "notas": "Correção do loop de atualização. Ajustes no laudo e marca d'água."
+  "versao_app": "v.2.7.3",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.7.3/EchoVetPro.exe",
+  "hash_sha256": "4c4747e3416d9062bc505bb246ba326ccc9057f9336f15b9858204b8a785f649",
+  "notas": "Retry automatico quando servico de IA sobrecarregado. Mensagens de erro mais claras."
 }
