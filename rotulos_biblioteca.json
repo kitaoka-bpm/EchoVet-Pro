@@ -1,13 +1,16 @@
 {
-  "versao": "2.0",
+  "versao": "2.1",
 
   "rotulos": {
     "IVSd":              "SIVd",
     "IVSTd":             "SIVd",
     "LVIDd":             "DIVEd",
+    "LVEDD":             "DIVEd",
     "LVPWd":             "PLVEd",
     "LVIDs":             "DIVEs",
+    "LVESD":             "DIVEs",
     "LA Diam":           "DiamAE",
+    "LAD":               "DiamAE",
     "Ao Diam":           "DiamAo",
     "LA/Ao":             "AEAo_str",
     "AE/Ao":             "AEAo_str",
@@ -30,6 +33,7 @@
     "MV Vel A":          "OndaA",
     "MV E/A":            "RelacaoEA_str",
     "MV E/A Ratio":      "RelacaoEA_str",
+    "E/A":               "RelacaoEA_str",
     "MV Vel E'":         "Em",
     "MV Vel A'":         "Am",
     "MV E' Lat":         "Em",
