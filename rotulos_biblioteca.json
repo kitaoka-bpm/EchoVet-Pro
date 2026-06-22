@@ -1,5 +1,5 @@
 {
-  "versao": "2.15",
+  "versao": "2.16",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -107,8 +107,7 @@
     "RDAPs Dist": "RDAPmax",
     "RDAPd Dist": "RDAPmin",
     "IDRDAP S*": "RDAPmax",
-    "IDRDAP d*": "RDAPmin",
-    "LA": "DiamAE"
+    "IDRDAP d*": "RDAPmin"
   },
   "ignorar": [
     "LVID",
