@@ -1,5 +1,5 @@
 {
-  "versao": "2.2",
+  "versao": "2.3",
 
   "rotulos": {
     "IVSd":              "SIVd",
@@ -59,7 +59,29 @@
     "AR PG":             "GPRA",
     "PR Vmax":           "VRP",
     "PR PG":             "GPRP",
-    "AP/Ao":             "APAo_str"
+    "AP/Ao":             "APAo_str",
+
+    "EDV(Teich)":        "EDV",
+    "ESV(Teich)":        "ESV",
+    "Diám Ao":           "DiamAo",
+    "Diam Ao":           "DiamAo",
+    "Diám LA":           "DiamAE",
+    "Diam LA":           "DiamAE",
+    "Diám LVOT":         "DiamLVOT",
+    "Diam LVOT":         "DiamLVOT",
+    "Vmax PV":           "fluxoAP",
+    "PGmax PV":          "GPAP",
+    "MV Dect":           "TdesacE",
+    "MV E' Lateral Vel": "Em",
+    "MV E/E' Lateral":   "EEm",
+    "Aa (lateral)":      "Am",
+    "MV Ea/Aa(lateral)": "EmpAmp_str",
+    "Sa (lateral)":      "Sm",
+    "LVOT VTI":          "VTIAo",
+    "E/TRIV":            "RelETRIV_str",
+    "RDAPs Dist":        "RDAPmax",
+    "RDAPd Dist":        "RDAPmin",
+    "IDR|DAP":           "IDRDAP_str"
   },
 
   "ignorar": [
@@ -74,7 +96,12 @@
     "LVEF", "LVSV", "LVMI",
     "TAM", "TAM(M)", "TAMSE", "MAM",
     "1 D", "2 D", "1.D", "2.D",
-    "PG"
+    "PG",
+    "Área LVOT", "Area LVOT",
+    "MV E PG", "MV A PG",
+    "Vmed LVOT", "PGmed LVOT",
+    "VS(VTI)", "DC(VTI)",
+    "TA|TE"
   ],
 
   "config_blacklist": [
