@@ -1,12 +1,17 @@
 {
-  "versao": "2.1",
+  "versao": "2.2",
 
   "rotulos": {
     "IVSd":              "SIVd",
     "IVSTd":             "SIVd",
+    "IVSs":              "SIVs",
+    "IVSTs":             "SIVs",
+    "SIVs":              "SIVs",
     "LVIDd":             "DIVEd",
     "LVEDD":             "DIVEd",
     "LVPWd":             "PLVEd",
+    "LVPWs":             "PLVEs",
+    "PLVEs":             "PLVEs",
     "LVIDs":             "DIVEs",
     "LVESD":             "DIVEs",
     "LA Diam":           "DiamAE",
@@ -58,7 +63,7 @@
   },
 
   "ignorar": [
-    "IVSs", "LVPWs", "LVID",
+    "LVID",
     "SV(M-Teich)", "SI(M-Teich)",
     "LVIDd Index(M)", "LVIDs Index(M)",
     "LVD Mass(M)", "LVID Mass(M)",
