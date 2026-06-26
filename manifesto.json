@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.2.8.5",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.8.5/EchoVetPro.exe",
-  "hash_sha256": "e75745abfcca199db9c26415b6cdd5bb5e1ee76678a1cd9c371e6529db194ed0",
-  "notas": "Aviso de IA na tela Gerar Laudo, trial de 7 dias com proteção anti-burla."
+  "versao_app": "v.2.8.6",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.8.6/EchoVetPro.exe",
+  "hash_sha256": "7e9c1a01599be3effdc08bb8d64d1fed650c7bf74d9a20fa0b48bec8dbcbd903",
+  "notas": "Fluxo de venda completo: trial 7 dias, botão assinar no app, página de obrigado."
 }
