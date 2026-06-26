@@ -1,6 +1,6 @@
 {
   "versao_app": "v.2.8.0",
   "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.8.0/EchoVetPro.exe",
-  "hash_sha256": "e19bbe2b374afbda56e639122cf2c3a1a09bd74adf22b259bb1c3c88ddbeb726",
+  "hash_sha256": "97d8870d9fc6ecbf3f7e4c0dfc6d36826bda393b9c85c043c0ba371b1ea8e6b2",
   "notas": "Blindagem de segurança completa: tokens cifrados, verificação de assinatura server-side, rate limit, endpoints sem nomes de marcas."
 }
