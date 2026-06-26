@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.2.8.1",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.8.1/EchoVetPro.exe",
-  "hash_sha256": "9653b7430ece0aa7287893e7daaea826bccdfbf6db04a4c323e12c23661277f2",
-  "notas": "Splash screen na inicialização — elimina espera em branco após auto-update."
+  "versao_app": "v.2.8.2",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.8.2/EchoVetPro.exe",
+  "hash_sha256": "e69a4f112e2827ae994902b4d801a5228c605356f41c51cd862c5ea22084f77b",
+  "notas": "Splash screen nítida com janela menor."
 }
