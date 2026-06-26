@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.2.8.4",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.8.4/EchoVetPro.exe",
-  "hash_sha256": "43d1d80e439a77c06bce428c566d9709b7cfe9aeafee7ea48f3ed578ca745158",
-  "notas": "Fix: splash screen fecha corretamente em qualquer cenário."
+  "versao_app": "v.2.8.5",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.8.5/EchoVetPro.exe",
+  "hash_sha256": "e75745abfcca199db9c26415b6cdd5bb5e1ee76678a1cd9c371e6529db194ed0",
+  "notas": "Aviso de IA na tela Gerar Laudo, trial de 7 dias com proteção anti-burla."
 }
