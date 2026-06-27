@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.2.8.7",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.8.7/EchoVetPro.exe",
-  "hash_sha256": "85b5b3d093f3db5a1372e874911234afd5c7fe42abfaff565926f3ea02073abd",
-  "notas": "Fix: lembrar-me voltou a funcionar corretamente."
+  "versao_app": "v.2.8.8",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.8.8/EchoVetPro.exe",
+  "hash_sha256": "145a27a8638195d008718cdeb76d2c5823e0ed9ced82687db8fd3236cca5b3a9",
+  "notas": "Janela de atualização com logo do programa."
 }
