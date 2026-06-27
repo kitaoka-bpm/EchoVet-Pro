@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.2.8.8",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.8.8/EchoVetPro.exe",
-  "hash_sha256": "145a27a8638195d008718cdeb76d2c5823e0ed9ced82687db8fd3236cca5b3a9",
-  "notas": "Janela de atualização com logo do programa."
+  "versao_app": "v.2.8.9",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.8.9/EchoVetPro.exe",
+  "hash_sha256": "ce2e9d6c21b3cddbd1138af3cdace64c432ee9cb29e90e1e0a3490e82f5b89e8",
+  "notas": "Fix: logo correto na janela de atualização."
 }
