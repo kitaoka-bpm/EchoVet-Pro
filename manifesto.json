@@ -1,6 +1,14 @@
 {
+<<<<<<< HEAD
   "versao_app": "v.2.9.4",
   "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.9.4/EchoVetPro.exe",
   "hash_sha256": "c79590d99ef2af88890f6277e2da6cf6d7042f6615d9ce0eaf468b0a20bb5992",
   "notas": "v.2.9.4 — Correcoes de bugs, seguranca e melhorias de performance."
 }
+=======
+  "versao_app": "v.2.9.3",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.9.3/EchoVetPro.exe",
+  "hash_sha256": "4fa14dcb6c4b520a465df88252edeb957058c2a5718c672345627255e81aa53b",
+  "notas": "v.2.9.3 \u2014 Seguranca, correcoes de bugs e melhorias de performance"
+}
+>>>>>>> 5b058d079694fa70e509871ef229ab5f1e105d89
