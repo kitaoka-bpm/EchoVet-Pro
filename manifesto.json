@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.2.9.1",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.9.1/EchoVetPro.exe",
-  "hash_sha256": "08b9e870a6b60775b5b86b1abed817c88ba481e6d73ee4c076183a9d7b3234c9",
-  "notas": "Data do exame vazia por padrão. Gemini Flash ativado para melhor leitura de imagens."
+  "versao_app": "2.9.3",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-beta-dev/releases/download/v.2.9.3/EchoVetPro.exe",
+  "hash_sha256": "4fa14dcb6c4b520a465df88252edeb957058c2a5718c672345627255e81aa53b",
+  "notas": "v.2.9.3 — Fix painel Admin Vision/Gemini + 18 correções de bugs"
 }
