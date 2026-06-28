@@ -1,5 +1,5 @@
 {
-  "versao": "2.23",
+  "versao": "2.24",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -108,7 +108,8 @@
     "RDAPd Dist": "RDAPmin",
     "IDRDAP S*": "RDAPmax",
     "IDRDAP d*": "RDAPmin",
-    "3 MV'E/A' Ratio": "EmpAmp_str"
+    "3 MV'E/A' Ratio": "EmpAmp_str",
+    "MR Max PG": "GPRM"
   },
   "ignorar": [
     "LVID",
