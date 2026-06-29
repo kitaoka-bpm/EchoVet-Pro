@@ -1,5 +1,5 @@
 {
-  "versao": "2.131",
+  "versao": "2.132",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -385,7 +385,8 @@
     "E' Sept",
     "IVCT",
     "Masaa VED(ASE)",
-    "IVRT/ICT"
+    "IVRT/ICT",
+    "MPI"
   ],
   "config_blacklist": [
     "DP",
