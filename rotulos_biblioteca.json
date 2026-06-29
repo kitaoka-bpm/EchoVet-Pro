@@ -1,5 +1,5 @@
 {
-  "versao": "2.53",
+  "versao": "2.54",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -338,7 +338,8 @@
     "A velo. A VM",
     "DC(Teich)",
     "Ao/LA",
-    "TV Vmax"
+    "TV Vmax",
+    "RV Diam"
   ],
   "config_blacklist": [
     "DP",
