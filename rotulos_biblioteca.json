@@ -1,5 +1,5 @@
 {
-  "versao": "2.48",
+  "versao": "2.49",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -333,7 +333,8 @@
     "Rampa Des VM",
     "VM PG",
     "vmax VM",
-    "ICT"
+    "ICT",
+    "A velo. A VM"
   ],
   "config_blacklist": [
     "DP",
