@@ -1,5 +1,5 @@
 {
-  "versao": "2.145",
+  "versao": "2.146",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -241,7 +241,8 @@
     "T.Dec": "TdesacE",
     "RM PG": "GPRM",
     "AV VTI": "VTIAo",
-    "E'/A'": "EmpAmp_str"
+    "E'/A'": "EmpAmp_str",
+    "A'": "Am"
   },
   "ignorar": [
     "LVID",
