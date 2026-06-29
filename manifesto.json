@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.0.0",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.0.0/EchoVetPro.exe",
-  "hash_sha256": "371a68d55e97c3e1886107e44491372d91b1370c3dd5917f2eeb07bb7b1968b0",
-  "notas": "v.3.0.0 - Versao estavel com correcoes de seguranca e performance."
+  "versao_app": "v.3.1.0",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.1.0/EchoVetPro.exe",
+  "hash_sha256": "33c1ac0661bf24f638ffd3260488c5851ffdc2ae412d0754d91d4370cb09ef71",
+  "notas": "v.3.1.0 - Suporte a PDF de imagens, normalizacao de rotulos aprimorada."
 }
