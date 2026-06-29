@@ -1,5 +1,5 @@
 {
-  "versao": "2.45",
+  "versao": "2.46",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -330,7 +330,8 @@
     "CI(Teich)",
     "IC(Teich)",
     "VSVE PG",
-    "Rampa Des VM"
+    "Rampa Des VM",
+    "VM PG"
   ],
   "config_blacklist": [
     "DP",
