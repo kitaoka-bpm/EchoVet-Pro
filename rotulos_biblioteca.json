@@ -1,5 +1,5 @@
 {
-  "versao": "2.199",
+  "versao": "2.200",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -447,7 +447,8 @@
     "EFES",
     "rampa Decel.VM",
     "PPVe/Es",
-    "PPVd/Ed"
+    "PPVd/Ed",
+    "Ind Massa VEd (ASE)"
   ],
   "config_blacklist": [
     "DP",
