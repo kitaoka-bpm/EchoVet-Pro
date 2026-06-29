@@ -1,5 +1,5 @@
 {
-  "versao": "2.170",
+  "versao": "2.171",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -254,7 +254,8 @@
     "Pulmonic Vmax": "fluxoAP",
     "Aortic PG": "GPAO",
     "PA Vmax": "fluxoAP",
-    "VP Vmáx": "fluxoAP"
+    "VP Vmáx": "fluxoAP",
+    "Ejection Fr": "FE"
   },
   "ignorar": [
     "LVID",
