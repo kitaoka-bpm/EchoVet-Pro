@@ -1,5 +1,5 @@
 {
-  "versao": "2.185",
+  "versao": "2.186",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -265,7 +265,8 @@
     "veloc E VM": "OndaE",
     "LV Vol s": "ESV",
     "LV Vol d": "EDV",
-    "Tricuspid PG": "GPRT"
+    "Tricuspid PG": "GPRT",
+    "Tricuspid Vmax": "VRT"
   },
   "ignorar": [
     "LVID",
