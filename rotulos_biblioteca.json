@@ -1,5 +1,5 @@
 {
-  "versao": "2.175",
+  "versao": "2.176",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -258,7 +258,8 @@
     "Ejection Fr": "FE",
     "ESV": "ESV",
     "EDV": "EDV",
-    "Ao PG": "GPAO"
+    "Ao PG": "GPAO",
+    "Ao Vmax": "fluxoAO"
   },
   "ignorar": [
     "LVID",
