@@ -1,5 +1,5 @@
 {
-  "versao": "2.91",
+  "versao": "2.92",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -360,7 +360,8 @@
     "G(c)",
     "DDP",
     "Compr",
-    "AG(t)"
+    "AG(t)",
+    "P"
   ],
   "config_blacklist": [
     "DP",
