@@ -1,5 +1,5 @@
 {
-  "versao": "2.165",
+  "versao": "2.166",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -127,7 +127,6 @@
     "VA PG máx": "GPAO",
     "VA PG max": "GPAO",
     "VP Vmdx": "fluxoAP",
-    "VP Vmáx": "fluxoAP",
     "VP PG mdx": "GPAP",
     "VP PGmáx": "GPAP",
     "VP PG máx": "GPAP",
