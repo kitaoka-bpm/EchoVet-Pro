@@ -1,5 +1,5 @@
 {
-  "versao": "2.204",
+  "versao": "2.205",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -271,7 +271,8 @@
     "E vel": "OndaE",
     "DIVESd": "DIVEd",
     "PPVEc": "PLVEd",
-    "MAPSE SEPTAL": "MAPSE"
+    "MAPSE SEPTAL": "MAPSE",
+    "E/E''": "EEm"
   },
   "ignorar": [
     "LVID",
