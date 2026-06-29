@@ -1,5 +1,5 @@
 {
-  "versao": "2.28",
+  "versao": "2.29",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -112,7 +112,8 @@
     "MR Max PG": "GPRM",
     "D. AE": "DiamAE",
     "D.Raiz Ao": "DiamAo",
-    "Delta D": "DeltaD"
+    "Delta D": "DeltaD",
+    "PPVEs": "PLVEs"
   },
   "ignorar": [
     "LVID",
