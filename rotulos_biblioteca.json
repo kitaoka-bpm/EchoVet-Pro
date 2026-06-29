@@ -1,5 +1,5 @@
 {
-  "versao": "2.68",
+  "versao": "2.69",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -225,7 +225,8 @@
     "Diâmetro Raiz Ao": "DiamAo",
     "FC": "FC",
     "%Delta D": "DeltaD",
-    "IAM SEPTAL": "Am"
+    "IAM SEPTAL": "Am",
+    "E": "OndaE"
   },
   "ignorar": [
     "LVID",
