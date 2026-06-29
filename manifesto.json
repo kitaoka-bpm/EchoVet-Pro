@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.1.0",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.1.0/EchoVetPro.exe",
-  "hash_sha256": "33c1ac0661bf24f638ffd3260488c5851ffdc2ae412d0754d91d4370cb09ef71",
-  "notas": "v.3.1.0 - Suporte a PDF de imagens, normalizacao de rotulos aprimorada."
+  "versao_app": "v.3.2.0",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.2.0/EchoVetPro.exe",
+  "hash_sha256": "9a3ba490990930c8f5cd09265ed6610e709dc73406954eb3a2b8e5f1b6953244",
+  "notas": "v.3.2.0 - Imagens do PDF agora aparecem na galeria do laudo."
 }
