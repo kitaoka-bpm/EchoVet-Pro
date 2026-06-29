@@ -1,5 +1,5 @@
 {
-  "versao": "2.119",
+  "versao": "2.120",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -374,7 +374,8 @@
     "Rampa desacel. VM",
     "LVISd Index(M)",
     "Rampa Decel MV",
-    "Tei Index"
+    "Tei Index",
+    "MV PHT"
   ],
   "config_blacklist": [
     "DP",
