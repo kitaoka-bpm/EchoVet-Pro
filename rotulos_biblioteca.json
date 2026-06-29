@@ -1,5 +1,5 @@
 {
-  "versao": "2.98",
+  "versao": "2.99",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -364,7 +364,8 @@
     "AG(t)",
     "P",
     "FOTeich",
-    "FDTeich"
+    "FDTeich",
+    "EVTeich"
   ],
   "config_blacklist": [
     "DP",
