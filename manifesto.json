@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.2.9.6",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.9.6/EchoVetPro.exe",
-  "hash_sha256": "153f096060c56bd1499c4f9caa6fc289d492a731718057f5df7c5d4f9da4473d",
-  "notas": "v.2.9.6 - Correcao de valores errados no Doppler. Prompts sem valores reais."
+  "versao_app": "v.2.9.7",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v2.9.7/EchoVetPro.exe",
+  "hash_sha256": "f9f358ce3b7603c5b4ab3869122066bfdf865a669b9a40159f3ff2091d40038e",
+  "notas": "v.2.9.7 - Correcao urgente: valores Doppler corretos no GE Images report."
 }
