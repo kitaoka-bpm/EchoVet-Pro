@@ -1,5 +1,5 @@
 {
-  "versao": "2.144",
+  "versao": "2.145",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -240,7 +240,8 @@
     "MV Decel": "TdesacE",
     "T.Dec": "TdesacE",
     "RM PG": "GPRM",
-    "AV VTI": "VTIAo"
+    "AV VTI": "VTIAo",
+    "E'/A'": "EmpAmp_str"
   },
   "ignorar": [
     "LVID",
