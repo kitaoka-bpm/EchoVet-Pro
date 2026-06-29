@@ -1,5 +1,5 @@
 {
-  "versao": "2.100",
+  "versao": "2.101",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -232,7 +232,8 @@
     "Rampa Decel VM": "TdesacE",
     "AVM": "OndaA",
     "MAM SEPTAL": "MAPSE",
-    "VSFTeich": "ESV"
+    "VSFTeich": "ESV",
+    "VDFTeich": "EDV"
   },
   "ignorar": [
     "LVID",
