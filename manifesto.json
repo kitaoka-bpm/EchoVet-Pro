@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.4.0",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.4.0/EchoVetPro.exe",
-  "hash_sha256": "08b437d8c9858755c9b1af41206a63cb611eba418e025cc2beb36fd3f6edd7b1",
-  "notas": "v.3.4.0 - Logo nao corta mais no laudo."
+  "versao_app": "v.3.5.0",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.5.0/EchoVetPro.exe",
+  "hash_sha256": "a3159fa81b3766e3813d3e9042ff6240d789e9f720befcc5245173254d2f9773",
+  "notas": "v.3.5.0 - Botao Assinar corrigido, trial automatico no primeiro login."
 }
