@@ -1,5 +1,5 @@
 {
-  "versao": "2.56",
+  "versao": "2.57",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -341,7 +341,8 @@
     "Ao/LA",
     "TV Vmax",
     "RV Diam",
-    "PPV/Ed"
+    "PPV/Ed",
+    "Vmax"
   ],
   "config_blacklist": [
     "DP",
