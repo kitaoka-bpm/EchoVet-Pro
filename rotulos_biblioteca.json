@@ -1,5 +1,5 @@
 {
-  "versao": "2.110",
+  "versao": "2.111",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -362,7 +362,11 @@
     "AVM",
     "E",
     "A",
-    "Vmax VSVE"
+    "Vmax VSVE",
+    "Rampa Decel. VM",
+    "Rampa Des. VM",
+    "Rampa desacel VM",
+    "Rampa desacel. VM"
   ],
   "config_blacklist": [
     "DP",
