@@ -1,5 +1,5 @@
 {
-  "versao": "2.31",
+  "versao": "2.32",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -115,7 +115,8 @@
     "Delta D": "DeltaD",
     "PPVEs": "PLVEs",
     "SIVd": "SIVd",
-    "DVEDd": "DIVEd"
+    "DVEDd": "DIVEd",
+    "PPVEd": "PLVEd"
   },
   "ignorar": [
     "LVID",
