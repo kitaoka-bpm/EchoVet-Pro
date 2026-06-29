@@ -1,5 +1,5 @@
 {
-  "versao": "2.180",
+  "versao": "2.181",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -261,7 +261,8 @@
     "Ao PG": "GPAO",
     "Ao Vmax": "fluxoAO",
     "IVS": "SIVd",
-    "veloc A VM": "OndaA"
+    "veloc A VM": "OndaA",
+    "veloc E VM": "OndaE"
   },
   "ignorar": [
     "LVID",
