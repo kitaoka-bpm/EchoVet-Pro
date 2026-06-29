@@ -1,5 +1,5 @@
 {
-  "versao": "2.32",
+  "versao": "2.33",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -116,7 +116,61 @@
     "PPVEs": "PLVEs",
     "SIVd": "SIVd",
     "DVEDd": "DIVEd",
-    "PPVEd": "PLVEd"
+    "PPVEd": "PLVEd",
+
+    "VA Vmdx": "fluxoAO",
+    "VA Vmáx": "fluxoAO",
+    "VA Vmax": "fluxoAO",
+    "VA Vel mdx": "fluxoAO",
+    "VA PG mdx": "GPAO",
+    "VA PGmáx": "GPAO",
+    "VA PGmax": "GPAO",
+
+    "VP Vmdx": "fluxoAP",
+    "VP Vmáx": "fluxoAP",
+    "VP PG mdx": "GPAP",
+    "VP PGmáx": "GPAP",
+
+    "IM Vmdx": "VRM",
+    "IM Vmáx": "VRM",
+    "IM PG mdx": "GPRM",
+    "IM PGmáx": "GPRM",
+
+    "IT Vmdx": "VRT",
+    "IT Vmáx": "VRT",
+    "IT PG mdx": "GPRT",
+    "IT PGmáx": "GPRT",
+
+    "IA Vmdx": "VRA",
+    "IA Vmáx": "VRA",
+    "IA PG mdx": "GPRA",
+    "IA PGmáx": "GPRA",
+
+    "IP Vmdx": "VRP",
+    "IP Vmáx": "VRP",
+    "IP PG mdx": "GPRP",
+    "IP PGmáx": "GPRP",
+
+    "VM onda E": "OndaE",
+    "VM Onda E": "OndaE",
+    "VM onda A": "OndaA",
+    "VM Onda A": "OndaA",
+    "VM E/A": "RelacaoEA_str",
+    "VM Dect": "TdesacE",
+    "VM DT": "TdesacE",
+    "VM TRIV": "TRIV",
+
+    "E' Lat": "Em",
+    "A' Lat": "Am",
+    "S' Lat": "Sm",
+    "E/E' Lat": "EEm",
+    "E'/A' Lat": "EmpAmp_str",
+
+    "D. Ao": "DiamAo",
+    "D. AP": "DiamAP",
+    "D. LVOT": "DiamLVOT",
+    "VTI VA": "VTIAo",
+    "VTI Ao": "VTIAo"
   },
   "ignorar": [
     "LVID",
