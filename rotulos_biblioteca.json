@@ -1,5 +1,5 @@
 {
-  "versao": "2.44",
+  "versao": "2.45",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -218,7 +218,8 @@
     "Velocid. A VM": "OndaA",
     "T. desac. VM": "TdesacE",
     "Vmax VSVE": "fluxoAO",
-    "Diâm AE": "DiamAE"
+    "Diâm AE": "DiamAE",
+    "Vmax VSVD": "fluxoAP"
   },
   "ignorar": [
     "LVID",
