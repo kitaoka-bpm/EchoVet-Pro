@@ -1,5 +1,5 @@
 {
-  "versao": "2.153",
+  "versao": "2.154",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -249,7 +249,8 @@
     "E/A Ratio": "RelacaoEA_str",
     "Pulm PG": "GPAP",
     "Aortic Vmax": "fluxoAO",
-    "Pulm Vmax": "fluxoAP"
+    "Pulm Vmax": "fluxoAP",
+    "Decel Time": "TdesacE"
   },
   "ignorar": [
     "LVID",
