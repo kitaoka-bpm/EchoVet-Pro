@@ -1,5 +1,5 @@
 {
-  "versao": "2.57",
+  "versao": "2.58",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -221,7 +221,8 @@
     "Diâm AE": "DiamAE",
     "Vmax VSVD": "fluxoAP",
     "VSVD PG": "GPAP",
-    "FEI(Teich)": "FE"
+    "FEI(Teich)": "FE",
+    "Diâmetro Raiz Ao": "DiamAo"
   },
   "ignorar": [
     "LVID",
