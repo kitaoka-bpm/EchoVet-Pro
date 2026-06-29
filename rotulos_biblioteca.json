@@ -1,5 +1,5 @@
 {
-  "versao": "2.112",
+  "versao": "2.113",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -232,7 +232,8 @@
     "E'": "Em",
     "VSFTeich": "ESV",
     "VDFTeich": "EDV",
-    "DVEs": "DIVEs"
+    "DVEs": "DIVEs",
+    "Veloc. A MV": "OndaA"
   },
   "ignorar": [
     "LVID",
