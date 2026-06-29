@@ -1,5 +1,5 @@
 {
-  "versao": "2.85",
+  "versao": "2.86",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -357,7 +357,8 @@
     "Tempo",
     "CO",
     "TV PG",
-    "G(c)"
+    "G(c)",
+    "DDP"
   ],
   "config_blacklist": [
     "DP",
