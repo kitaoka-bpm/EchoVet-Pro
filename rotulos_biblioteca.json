@@ -1,5 +1,5 @@
 {
-  "versao": "2.123",
+  "versao": "2.124",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -378,7 +378,8 @@
     "MV PHT",
     "MV PG",
     "MV Vmax",
-    "LV Vol s"
+    "LV Vol s",
+    "LV Vol d"
   ],
   "config_blacklist": [
     "DP",
