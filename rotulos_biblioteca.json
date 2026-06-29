@@ -1,5 +1,5 @@
 {
-  "versao": "2.69",
+  "versao": "2.70",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -347,7 +347,8 @@
     "TV Vmax",
     "RV Diam",
     "PPV/Ed",
-    "Vmax"
+    "Vmax",
+    "Massa VE(SE)"
   ],
   "config_blacklist": [
     "DP",
