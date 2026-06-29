@@ -1,5 +1,5 @@
 {
-  "versao": "2.141",
+  "versao": "2.142",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -395,7 +395,8 @@
     "MPA Diam",
     "TV VTI",
     "PV VTI",
-    "LV"
+    "LV",
+    "máx PG LVOT"
   ],
   "config_blacklist": [
     "DP",
