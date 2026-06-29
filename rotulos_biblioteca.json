@@ -1,5 +1,5 @@
 {
-  "versao": "2.30",
+  "versao": "2.31",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -114,7 +114,8 @@
     "D.Raiz Ao": "DiamAo",
     "Delta D": "DeltaD",
     "PPVEs": "PLVEs",
-    "SIVd": "SIVd"
+    "SIVd": "SIVd",
+    "DVEDd": "DIVEd"
   },
   "ignorar": [
     "LVID",
