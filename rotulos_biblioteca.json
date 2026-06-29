@@ -1,5 +1,5 @@
 {
-  "versao": "2.158",
+  "versao": "2.159",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -412,7 +412,8 @@
     "máx PG LVOT",
     "Grad. máx VSVD",
     "E/A'",
-    "PA PG"
+    "PA PG",
+    "RV S/P"
   ],
   "config_blacklist": [
     "DP",
