@@ -1,5 +1,5 @@
 {
-  "versao": "2.40",
+  "versao": "2.41",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -215,7 +215,8 @@
     "maxPG RT": "GPRT",
     "E velo. V M": "OndaE",
     "Relação E/A VM": "RelacaoEA_str",
-    "Velocid. A VM": "OndaA"
+    "Velocid. A VM": "OndaA",
+    "T. desac. VM": "TdesacE"
   },
   "ignorar": [
     "LVID",
