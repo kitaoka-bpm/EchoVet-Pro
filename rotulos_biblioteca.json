@@ -1,5 +1,5 @@
 {
-  "versao": "2.139",
+  "versao": "2.140",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -239,7 +239,8 @@
     "MV PG RM": "GPRM",
     "MV Decel": "TdesacE",
     "T.Dec": "TdesacE",
-    "RM PG": "GPRM"
+    "RM PG": "GPRM",
+    "AV VTI": "VTIAo"
   },
   "ignorar": [
     "LVID",
