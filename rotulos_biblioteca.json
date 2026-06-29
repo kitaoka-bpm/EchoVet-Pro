@@ -1,5 +1,5 @@
 {
-  "versao": "2.189",
+  "versao": "2.190",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -441,7 +441,8 @@
     "T-E",
     "MV VTI",
     "RV",
-    "EFES"
+    "EFES",
+    "rampa Decel.VM"
   ],
   "config_blacklist": [
     "DP",
