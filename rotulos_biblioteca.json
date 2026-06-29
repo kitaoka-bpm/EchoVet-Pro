@@ -1,5 +1,5 @@
 {
-  "versao": "2.70",
+  "versao": "2.71",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -226,7 +226,8 @@
     "FC": "FC",
     "%Delta D": "DeltaD",
     "IAM SEPTAL": "Am",
-    "E": "OndaE"
+    "E": "OndaE",
+    "E'": "Em"
   },
   "ignorar": [
     "LVID",
