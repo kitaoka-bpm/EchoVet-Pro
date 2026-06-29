@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.2.0",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.2.0/EchoVetPro.exe",
-  "hash_sha256": "9a3ba490990930c8f5cd09265ed6610e709dc73406954eb3a2b8e5f1b6953244",
-  "notas": "v.3.2.0 - Imagens do PDF agora aparecem na galeria do laudo."
+  "versao_app": "v.3.3.0",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.3.0/EchoVetPro.exe",
+  "hash_sha256": "0b0296258d8096900db97b082b7134902ca7962197bf8e723828f23c72785dbc",
+  "notas": "v.3.3.0 - Trial de 7 dias automatico no primeiro login."
 }
