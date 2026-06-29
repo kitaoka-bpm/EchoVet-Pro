@@ -1,5 +1,5 @@
 {
-  "versao": "2.34",
+  "versao": "2.35",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -250,7 +250,28 @@
     "LVID Index (M)",
     "CO (M-Teich)",
     "CI (M-Teich)",
-    "Massa VED (ASE)"
+    "Massa VED (ASE)",
+    "REGURGITAÇÃO MITRAL",
+    "REGURGITACAO MITRAL",
+    "REGURGITAÇÃO TRICÚSPIDE",
+    "REGURGITACAO TRICUSPIDE",
+    "REGURGITAÇÃO AÓRTICA",
+    "REGURGITACAO AORTICA",
+    "REGURGITAÇÃO PULMONAR",
+    "REGURGITACAO PULMONAR",
+    "FLUXO AÓRTICO",
+    "FLUXO PULMONAR",
+    "FLUXO MITRAL",
+    "FUNÇÃO SISTÓLICA",
+    "FUNCAO SISTOLICA",
+    "FUNÇÃO DIASTÓLICA",
+    "FUNCAO DIASTOLICA",
+    "MODO M",
+    "MODO-M",
+    "BIDIMENSIONAL",
+    "DOPPLER",
+    "MAM SEPTAL",
+    "MAM"
   ],
   "config_blacklist": [
     "DP",
