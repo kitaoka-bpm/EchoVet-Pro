@@ -1,5 +1,5 @@
 {
-  "versao": "2.135",
+  "versao": "2.136",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -389,7 +389,8 @@
     "MPI",
     "ET",
     "e' sep",
-    "RVOT VTI"
+    "RVOT VTI",
+    "RVOT Vmax"
   ],
   "config_blacklist": [
     "DP",
