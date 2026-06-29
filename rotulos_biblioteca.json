@@ -1,5 +1,5 @@
 {
-  "versao": "2.67",
+  "versao": "2.68",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -224,7 +224,8 @@
     "FEI(Teich)": "FE",
     "Diâmetro Raiz Ao": "DiamAo",
     "FC": "FC",
-    "%Delta D": "DeltaD"
+    "%Delta D": "DeltaD",
+    "IAM SEPTAL": "Am"
   },
   "ignorar": [
     "LVID",
