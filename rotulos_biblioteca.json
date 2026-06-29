@@ -1,5 +1,5 @@
 {
-  "versao": "2.33",
+  "versao": "2.34",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -125,31 +125,43 @@
     "VA PG mdx": "GPAO",
     "VA PGmáx": "GPAO",
     "VA PGmax": "GPAO",
+    "VA PG máx": "GPAO",
+    "VA PG max": "GPAO",
 
     "VP Vmdx": "fluxoAP",
     "VP Vmáx": "fluxoAP",
     "VP PG mdx": "GPAP",
     "VP PGmáx": "GPAP",
+    "VP PG máx": "GPAP",
+    "VP PG max": "GPAP",
 
     "IM Vmdx": "VRM",
     "IM Vmáx": "VRM",
     "IM PG mdx": "GPRM",
     "IM PGmáx": "GPRM",
+    "IM PG máx": "GPRM",
+    "IM PG max": "GPRM",
 
     "IT Vmdx": "VRT",
     "IT Vmáx": "VRT",
     "IT PG mdx": "GPRT",
     "IT PGmáx": "GPRT",
+    "IT PG máx": "GPRT",
+    "IT PG max": "GPRT",
 
     "IA Vmdx": "VRA",
     "IA Vmáx": "VRA",
     "IA PG mdx": "GPRA",
     "IA PGmáx": "GPRA",
+    "IA PG máx": "GPRA",
+    "IA PG max": "GPRA",
 
     "IP Vmdx": "VRP",
     "IP Vmáx": "VRP",
     "IP PG mdx": "GPRP",
     "IP PGmáx": "GPRP",
+    "IP PG máx": "GPRP",
+    "IP PG max": "GPRP",
 
     "VM onda E": "OndaE",
     "VM Onda E": "OndaE",
