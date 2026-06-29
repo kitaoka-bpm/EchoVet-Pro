@@ -1,5 +1,5 @@
 {
-  "versao": "2.36",
+  "versao": "2.37",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -117,7 +117,6 @@
     "SIVd": "SIVd",
     "DVEDd": "DIVEd",
     "PPVEd": "PLVEd",
-
     "VA Vmdx": "fluxoAO",
     "VA Vmáx": "fluxoAO",
     "VA Vmax": "fluxoAO",
@@ -127,42 +126,36 @@
     "VA PGmax": "GPAO",
     "VA PG máx": "GPAO",
     "VA PG max": "GPAO",
-
     "VP Vmdx": "fluxoAP",
     "VP Vmáx": "fluxoAP",
     "VP PG mdx": "GPAP",
     "VP PGmáx": "GPAP",
     "VP PG máx": "GPAP",
     "VP PG max": "GPAP",
-
     "IM Vmdx": "VRM",
     "IM Vmáx": "VRM",
     "IM PG mdx": "GPRM",
     "IM PGmáx": "GPRM",
     "IM PG máx": "GPRM",
     "IM PG max": "GPRM",
-
     "IT Vmdx": "VRT",
     "IT Vmáx": "VRT",
     "IT PG mdx": "GPRT",
     "IT PGmáx": "GPRT",
     "IT PG máx": "GPRT",
     "IT PG max": "GPRT",
-
     "IA Vmdx": "VRA",
     "IA Vmáx": "VRA",
     "IA PG mdx": "GPRA",
     "IA PGmáx": "GPRA",
     "IA PG máx": "GPRA",
     "IA PG max": "GPRA",
-
     "IP Vmdx": "VRP",
     "IP Vmáx": "VRP",
     "IP PG mdx": "GPRP",
     "IP PGmáx": "GPRP",
     "IP PG máx": "GPRP",
     "IP PG max": "GPRP",
-
     "VM onda E": "OndaE",
     "VM Onda E": "OndaE",
     "VM onda A": "OndaA",
@@ -171,26 +164,19 @@
     "VM Dect": "TdesacE",
     "VM DT": "TdesacE",
     "VM TRIV": "TRIV",
-
     "E' Lat": "Em",
     "A' Lat": "Am",
     "S' Lat": "Sm",
     "E/E' Lat": "EEm",
     "E'/A' Lat": "EmpAmp_str",
-
     "D. Ao": "DiamAo",
     "D. AP": "DiamAP",
     "D. LVOT": "DiamLVOT",
     "VTI VA": "VTIAo",
     "VTI Ao": "VTIAo",
-
     "DIVEd": "DIVEd",
     "DIVEs": "DIVEs",
-    "SIVd": "SIVd",
-    "SIVs": "SIVs",
     "PLVEd": "PLVEd",
-    "PLVEs": "PLVEs",
-
     "VDF(Teich)": "EDV",
     "VDF(M-Teich)": "EDV",
     "VDF(M)": "EDV",
@@ -202,7 +188,6 @@
     "FE(M)": "FE",
     "FS(Teich)": "DeltaD",
     "FS(M)": "DeltaD",
-
     "Veloc. E VM": "OndaE",
     "Vel. E VM": "OndaE",
     "Veloc.E VM": "OndaE",
@@ -217,11 +202,9 @@
     "T.dec. VM": "TdesacE",
     "Tdec VM": "TdesacE",
     "DT VM": "TdesacE",
-
     "E/E'": "EEm",
     "E/E' Lat.": "EEm",
     "E/E'(lat)": "EEm",
-
     "Vmax RM": "VRM",
     "Vel. max RM": "VRM",
     "Vmax RT": "VRT",
@@ -230,9 +213,7 @@
     "maxPG RM": "GPRM",
     "PGmax RT": "GPRT",
     "maxPG RT": "GPRT",
-
-    "D. Ao": "DiamAo",
-    "D. AE": "DiamAE"
+    "E velo. V M": "OndaE"
   },
   "ignorar": [
     "LVID",
