@@ -1,5 +1,5 @@
 {
-  "versao": "2.149",
+  "versao": "2.150",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -245,7 +245,8 @@
     "A'": "Am",
     "Pulmonic Regurg": "VRP",
     "Aortic Regurg": "VRA",
-    "Tricuspid Regurg": "VRT"
+    "Tricuspid Regurg": "VRT",
+    "E/A Ratio": "RelacaoEA_str"
   },
   "ignorar": [
     "LVID",
