@@ -1,5 +1,5 @@
 {
-  "versao": "2.80",
+  "versao": "2.81",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -354,7 +354,8 @@
     "Vmax",
     "Massa VE(SE)",
     "LPS",
-    "Tempo"
+    "Tempo",
+    "CO"
   ],
   "config_blacklist": [
     "DP",
