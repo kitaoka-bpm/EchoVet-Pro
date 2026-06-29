@@ -1,5 +1,5 @@
 {
-  "versao": "2.172",
+  "versao": "2.173",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -255,7 +255,8 @@
     "Aortic PG": "GPAO",
     "PA Vmax": "fluxoAP",
     "VP Vmáx": "fluxoAP",
-    "Ejection Fr": "FE"
+    "Ejection Fr": "FE",
+    "ESV": "ESV"
   },
   "ignorar": [
     "LVID",
