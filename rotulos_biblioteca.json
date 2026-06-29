@@ -1,5 +1,5 @@
 {
-  "versao": "2.74",
+  "versao": "2.75",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -229,7 +229,8 @@
     "E": "OndaE",
     "E'": "Em",
     "A": "OndaA",
-    "Rampa Decel VM": "TdesacE"
+    "Rampa Decel VM": "TdesacE",
+    "AVM": "OndaA"
   },
   "ignorar": [
     "LVID",
