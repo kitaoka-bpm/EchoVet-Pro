@@ -1,5 +1,5 @@
 {
-  "versao": "2.50",
+  "versao": "2.51",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -335,7 +335,8 @@
     "VM PG",
     "vmax VM",
     "ICT",
-    "A velo. A VM"
+    "A velo. A VM",
+    "DC(Teich)"
   ],
   "config_blacklist": [
     "DP",
