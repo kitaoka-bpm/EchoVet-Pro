@@ -1,5 +1,5 @@
 {
-  "versao": "2.101",
+  "versao": "2.102",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -233,7 +233,8 @@
     "AVM": "OndaA",
     "MAM SEPTAL": "MAPSE",
     "VSFTeich": "ESV",
-    "VDFTeich": "EDV"
+    "VDFTeich": "EDV",
+    "DVEs": "DIVEs"
   },
   "ignorar": [
     "LVID",
