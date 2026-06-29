@@ -1,5 +1,5 @@
 {
-  "versao": "2.163",
+  "versao": "2.164",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -253,7 +253,8 @@
     "Decel Time": "TdesacE",
     "Pulmonic PG": "GPAP",
     "Pulmonic Vmax": "fluxoAP",
-    "Aortic PG": "GPAO"
+    "Aortic PG": "GPAO",
+    "PA Vmax": "fluxoAP"
   },
   "ignorar": [
     "LVID",
@@ -417,7 +418,7 @@
     "RA Diam",
     "RV S/P Ratio",
     "RV EF",
-    "PA Vmax"
+    "RV/LV"
   ],
   "config_blacklist": [
     "DP",
