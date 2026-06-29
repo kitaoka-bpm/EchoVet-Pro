@@ -1,5 +1,5 @@
 {
-  "versao": "2.160",
+  "versao": "2.161",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -414,7 +414,8 @@
     "E/A'",
     "PA PG",
     "RV S/P",
-    "RA Diam"
+    "RA Diam",
+    "RV S/P Ratio"
   ],
   "config_blacklist": [
     "DP",
