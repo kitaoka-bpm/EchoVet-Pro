@@ -1,5 +1,5 @@
 {
-  "versao": "2.108",
+  "versao": "2.109",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -198,7 +198,12 @@
     "VM Veloc. A": "OndaA",
     "E/A VM": "RelacaoEA_str",
     "T.Dec. VM": "TdesacE",
+    "T.Des. VM": "TdesacE",
+    "T.des. VM": "TdesacE",
+    "T. Des. VM": "TdesacE",
+    "T. Dec. VM": "TdesacE",
     "Tdec. VM": "TdesacE",
+    "Tdes. VM": "TdesacE",
     "T.dec. VM": "TdesacE",
     "Tdec VM": "TdesacE",
     "DT VM": "TdesacE",
@@ -370,6 +375,9 @@
     "IAM SEPTAL",
     "Rampa Decel VM",
     "Rampa Dec VM",
+    "Rampa Des.VM",
+    "Rampa Des VM",
+    "Rampa.Des.VM",
     "AVM",
     "E",
     "A"
