@@ -1,5 +1,5 @@
 {
-  "versao": "2.107",
+  "versao": "2.108",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -225,13 +225,7 @@
     "Diâmetro Raiz Ao": "DiamAo",
     "FC": "FC",
     "%Delta D": "DeltaD",
-    "IAM SEPTAL": "Am",
-    "E": "OndaE",
     "E'": "Em",
-    "A": "OndaA",
-    "Rampa Decel VM": "TdesacE",
-    "AVM": "OndaA",
-    "MAM SEPTAL": "MAPSE",
     "VSFTeich": "ESV",
     "VDFTeich": "EDV",
     "DVEs": "DIVEs"
@@ -371,7 +365,14 @@
     "EVTeich",
     "f",
     "QPS",
-    "maxPG RM"
+    "maxPG RM",
+    "MAM SEPTAL",
+    "IAM SEPTAL",
+    "Rampa Decel VM",
+    "Rampa Dec VM",
+    "AVM",
+    "E",
+    "A"
   ],
   "config_blacklist": [
     "DP",
