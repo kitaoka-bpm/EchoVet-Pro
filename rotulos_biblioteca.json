@@ -1,5 +1,5 @@
 {
-  "versao": "2.169",
+  "versao": "2.170",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -421,7 +421,8 @@
     "RV/LV",
     "RA/Ao",
     "RV SV",
-    "RV ESV"
+    "RV ESV",
+    "RV EDV"
   ],
   "config_blacklist": [
     "DP",
