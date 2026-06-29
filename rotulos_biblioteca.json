@@ -1,5 +1,5 @@
 {
-  "versao": "2.25",
+  "versao": "2.26",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -110,7 +110,8 @@
     "IDRDAP d*": "RDAPmin",
     "3 MV'E/A' Ratio": "EmpAmp_str",
     "MR Max PG": "GPRM",
-    "D. AE": "DiamAE"
+    "D. AE": "DiamAE",
+    "D.Raiz Ao": "DiamAo"
   },
   "ignorar": [
     "LVID",
