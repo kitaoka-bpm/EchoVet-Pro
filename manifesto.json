@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.6.1",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.6.1/EchoVetPro.exe",
-  "hash_sha256": "10271fa43ba4a133265ca25e6b424087087e3f72c81acc4f56931d755ac85d4a",
-  "notas": "v.3.6.1 - Correcao: erro ao importar exames com muitas imagens (frames de ecografo)."
+  "versao_app": "v.3.6.2",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.6.2/EchoVetPro.exe",
+  "hash_sha256": "aa09ad90f3af3283c3e7c91597811770150587e27ed1f6158a2f896171072698",
+  "notas": "v.3.6.2 - Correcao critica: importacao de imagens retornava erro em todas as maquinas."
 }
