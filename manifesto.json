@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.6.4",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.6.4/EchoVetPro.exe",
-  "hash_sha256": "82d436393a52355e5ea4384ed124a37b9c128cc96f70c565ae20e66faafa94cd",
-  "notas": "v.3.6.4 - Rebuild limpo para garantir correcao de unidade (cm multiplicado por 10) no exe."
+  "versao_app": "v.3.6.5",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.6.5/EchoVetPro.exe",
+  "hash_sha256": "9fa09868bccae2cd713ecc036999ea4bc73d40106a847a3876f611e15914cc52",
+  "notas": "v.3.6.5 - Corrige rotulo de unidade desatualizado no painel ao reabrir com preferencia mm/m-s salva, que mascarava a conversao x10 correta."
 }
