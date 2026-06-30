@@ -1,5 +1,5 @@
 {
-  "versao": "2.206",
+  "versao": "2.207",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -454,7 +454,8 @@
     "Ind Massa VEd (ASE)",
     "Ind. Massa VEd",
     "Ao asc.",
-    "TP"
+    "TP",
+    "Exc D-E"
   ],
   "config_blacklist": [
     "DP",
