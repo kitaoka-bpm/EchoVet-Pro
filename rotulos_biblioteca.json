@@ -1,5 +1,5 @@
 {
-  "versao": "2.215",
+  "versao": "2.216",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -277,7 +277,8 @@
     "Grad. máx VP": "GPAP",
     "TR S' Velocity*": "St",
     "PG máx PR": "GPRP",
-    "L MAPSE SEPTAL": "MAPSE"
+    "L MAPSE SEPTAL": "MAPSE",
+    "PGmáx MR": "GPRM"
   },
   "ignorar": [
     "LVID",
