@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.6.3",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.6.3/EchoVetPro.exe",
-  "hash_sha256": "e508d4c760f9a34078cc4ab96ab594e3f5a3430c1abb2edd7526948484cfcb87",
-  "notas": "v.3.6.3 - Correcao critica: valores ja em cm/cm-s estavam sendo multiplicados por 10 na extracao automatica."
+  "versao_app": "v.3.6.4",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.6.4/EchoVetPro.exe",
+  "hash_sha256": "82d436393a52355e5ea4384ed124a37b9c128cc96f70c565ae20e66faafa94cd",
+  "notas": "v.3.6.4 - Rebuild limpo para garantir correcao de unidade (cm multiplicado por 10) no exe."
 }
