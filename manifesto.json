@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.6.2",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.6.2/EchoVetPro.exe",
-  "hash_sha256": "aa09ad90f3af3283c3e7c91597811770150587e27ed1f6158a2f896171072698",
-  "notas": "v.3.6.2 - Correcao critica: importacao de imagens retornava erro em todas as maquinas."
+  "versao_app": "v.3.6.3",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.6.3/EchoVetPro.exe",
+  "hash_sha256": "e508d4c760f9a34078cc4ab96ab594e3f5a3430c1abb2edd7526948484cfcb87",
+  "notas": "v.3.6.3 - Correcao critica: valores ja em cm/cm-s estavam sendo multiplicados por 10 na extracao automatica."
 }
