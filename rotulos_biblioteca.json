@@ -1,5 +1,5 @@
 {
-  "versao": "2.217",
+  "versao": "2.218",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -465,7 +465,8 @@
     "Vméx LVOT",
     "dt",
     "Excurs D-E",
-    "Rampa E-F"
+    "Rampa E-F",
+    "max PG VSVE"
   ],
   "config_blacklist": [
     "DP",
