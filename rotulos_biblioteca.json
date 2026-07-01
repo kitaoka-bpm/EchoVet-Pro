@@ -1,5 +1,5 @@
 {
-  "versao": "2.219",
+  "versao": "2.220",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -279,7 +279,8 @@
     "PG máx PR": "GPRP",
     "L MAPSE SEPTAL": "MAPSE",
     "PGmáx MR": "GPRM",
-    "MV EPSS": "ESEPTO"
+    "MV EPSS": "ESEPTO",
+    "RA maxPG": "GPRA"
   },
   "ignorar": [
     "LVID",
