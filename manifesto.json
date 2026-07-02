@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.6.5",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.6.5/EchoVetPro.exe",
-  "hash_sha256": "9fa09868bccae2cd713ecc036999ea4bc73d40106a847a3876f611e15914cc52",
-  "notas": "v.3.6.5 - Corrige rotulo de unidade desatualizado no painel ao reabrir com preferencia mm/m-s salva, que mascarava a conversao x10 correta."
+  "versao_app": "v.3.7.0",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.0/EchoVetPro.exe",
+  "hash_sha256": "a566e04739a618c4ad6efdaa781660446e97702159f2163a73e056dca0067a4b",
+  "notas": "v.3.7.0 - Novo sistema de referencias cientificas em Configuracoes: Modo-M do VE, AE/Ao, DIVEdnorm, AP/Ao, IDRDAP, MAPSE e TAPSE. Compara automaticamente as medidas do exame com a literatura veterinaria, no programa e no laudo."
 }
