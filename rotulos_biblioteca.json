@@ -1,5 +1,5 @@
 {
-  "versao": "2.224",
+  "versao": "2.225",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -472,7 +472,8 @@
     "max PG VSVE",
     "RA T. Des.",
     "- d",
-    "Cusp VA"
+    "Cusp VA",
+    "RA Rampa Des."
   ],
   "config_blacklist": [
     "DP",
