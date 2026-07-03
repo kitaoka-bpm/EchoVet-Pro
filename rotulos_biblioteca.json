@@ -1,5 +1,5 @@
 {
-  "versao": "2.226",
+  "versao": "2.227",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -283,7 +283,8 @@
     "RA maxPG": "GPRA",
     "Diâmetro AE": "DiamAE",
     "Diâmetro Raiz": "DiamAo",
-    "ARTERIA PULMONAR": "DiamAP"
+    "ARTERIA PULMONAR": "DiamAP",
+    "AORTA": "DiamAo"
   },
   "ignorar": [
     "LVID",
