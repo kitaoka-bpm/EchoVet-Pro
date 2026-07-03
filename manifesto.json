@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.7.3",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.3/EchoVetPro.exe",
-  "hash_sha256": "30af074c2982e49e21f525c9efb76ab31b62b43ea01bd1f8ef30fa0a33b34154",
-  "notas": "v.3.7.3 - Corrige conversao indevida de gradiente de pressao (mmHg) sendo tratado como dimensao em mm."
+  "versao_app": "v.3.7.4",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.4/EchoVetPro.exe",
+  "hash_sha256": "466cb46ad0fa9f29490bba152f2590a3a74b949d941a49ec2a3703cccc1f2d0a",
+  "notas": "v.3.7.4 - Corrige transbordo imprevisivel na pagina de imagens do laudo entre computadores diferentes."
 }
