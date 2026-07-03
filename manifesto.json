@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.7.2",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.2/EchoVetPro.exe",
-  "hash_sha256": "d3f0a3895b2e44bb06abe90494dddbc3baae9d5a91d829f502885c995ef2c4f6",
-  "notas": "v.3.7.2 - Corrige perda de imagens ao importar 2+ PDFs de imagens (modo 3) do mesmo exame."
+  "versao_app": "v.3.7.3",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.3/EchoVetPro.exe",
+  "hash_sha256": "30af074c2982e49e21f525c9efb76ab31b62b43ea01bd1f8ef30fa0a33b34154",
+  "notas": "v.3.7.3 - Corrige conversao indevida de gradiente de pressao (mmHg) sendo tratado como dimensao em mm."
 }
