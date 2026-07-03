@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.7.1",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.1/EchoVetPro.exe",
-  "hash_sha256": "99097133ebaefed1e2983ec8e5eb47ef7813f0e89b434b838dd565ce118bbb36",
-  "notas": "v.3.7.1 - Corrige a ordem dos elementos Tema e Sair na barra lateral de Configuracoes."
+  "versao_app": "v.3.7.2",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.2/EchoVetPro.exe",
+  "hash_sha256": "d3f0a3895b2e44bb06abe90494dddbc3baae9d5a91d829f502885c995ef2c4f6",
+  "notas": "v.3.7.2 - Corrige perda de imagens ao importar 2+ PDFs de imagens (modo 3) do mesmo exame."
 }
