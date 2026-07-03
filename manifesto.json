@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.7.5",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.5/EchoVetPro.exe",
-  "hash_sha256": "afa0f939b9f770071db2faac9c6d3be0732f20dc29b9a6dc3dccbb7d3e001993",
-  "notas": "v.3.7.5 - Corrige auto-update que baixava a atualizacao mas reabria a versao antiga em alguns computadores."
+  "versao_app": "v.3.7.6",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.6/EchoVetPro.exe",
+  "hash_sha256": "7ae66a796e43c9f98f1d776304e61cfb3a9bdb521025bbd240b0d248c5f2dac0",
+  "notas": "v.3.7.6 - Corrige de vez o transbordo de pagina na galeria de imagens do laudo (style inline mascarava o fix da v.3.7.4)."
 }
