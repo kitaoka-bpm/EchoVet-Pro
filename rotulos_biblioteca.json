@@ -1,5 +1,5 @@
 {
-  "versao": "2.230",
+  "versao": "2.231",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -287,7 +287,8 @@
     "AORTA": "DiamAo",
     "VP PG": "GPAP",
     "RT PG": "GPRT",
-    "V'máx RM": "VRM"
+    "V'máx RM": "VRM",
+    "EF(M)": "FE"
   },
   "ignorar": [
     "LVID",
