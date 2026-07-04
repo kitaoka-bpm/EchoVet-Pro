@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.7.6",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.6/EchoVetPro.exe",
-  "hash_sha256": "7ae66a796e43c9f98f1d776304e61cfb3a9bdb521025bbd240b0d248c5f2dac0",
-  "notas": "v.3.7.6 - Corrige de vez o transbordo de pagina na galeria de imagens do laudo (style inline mascarava o fix da v.3.7.4)."
+  "versao_app": "v.3.7.7",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.7/EchoVetPro.exe",
+  "hash_sha256": "ee51d6681386b4c4b50bca81a317711e986f1a85ec7f5c61f932cecd759844d0",
+  "notas": "v.3.7.7 - Atualiza o icone e logo do aplicativo (splash, titulo da janela, icone do .exe) para o novo simbolo da marca."
 }
