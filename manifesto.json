@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.7.7",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.7/EchoVetPro.exe",
-  "hash_sha256": "ee51d6681386b4c4b50bca81a317711e986f1a85ec7f5c61f932cecd759844d0",
-  "notas": "v.3.7.7 - Atualiza o icone e logo do aplicativo (splash, titulo da janela, icone do .exe) para o novo simbolo da marca."
+  "versao_app": "v.3.7.8",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.8/EchoVetPro.exe",
+  "hash_sha256": "3276e5bdf358c2e8e87024674db2f1c1b156240195088dece0ae0c3857d6178e",
+  "notas": "v.3.7.8 - Corrige o icone travado (versao antiga) na area de trabalho apos a atualizacao automatica."
 }
