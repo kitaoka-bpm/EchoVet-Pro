@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.7.10",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.10/EchoVetPro.exe",
-  "hash_sha256": "d7d04b0fafa547a66a2638ac393c696f1b6817ce3bcaffca77514ab3cebaf232",
-  "notas": "v.3.7.10 - Corrige o email de boas-vindas, que nunca era enviado no primeiro login."
+  "versao_app": "v.3.8.0",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.8.0/EchoVetPro.exe",
+  "hash_sha256": "b4024e07dd35091347f404347b2039b06cf4c7eb9d9c2976ac5665674770d37a",
+  "notas": "v.3.8.0 - Corrige o email de boas-vindas, que nunca era enviado no primeiro login."
 }
