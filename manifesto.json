@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.3.7.8",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.8/EchoVetPro.exe",
-  "hash_sha256": "3276e5bdf358c2e8e87024674db2f1c1b156240195088dece0ae0c3857d6178e",
-  "notas": "v.3.7.8 - Corrige o icone travado (versao antiga) na area de trabalho apos a atualizacao automatica."
+  "versao_app": "v.3.7.9",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.7.9/EchoVetPro.exe",
+  "hash_sha256": "0a9f9f05d9aa2652d13fba0c86e3eb571ed3ffc72d972b5f0b713f527beba754",
+  "notas": "v.3.7.9 - Mostra o botao Assinar durante o trial ativo, sem bloquear o uso, incentivando a conversao antes do periodo de teste acabar."
 }
