@@ -1,5 +1,5 @@
 {
-  "versao": "2.251",
+  "versao": "2.252",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -297,7 +297,8 @@
     "CVEd A4C": "DIVEd",
     "VSFVE MOD A4C": "ESVsimp",
     "FEVE MOD A4C": "FESIMP",
-    "PA/AO": "APAo_str"
+    "PA/AO": "APAo_str",
+    "E/A' Lat": "EmpAmp_str"
   },
   "ignorar": [
     "LVID",
