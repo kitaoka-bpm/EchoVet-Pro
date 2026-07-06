@@ -1,5 +1,5 @@
 {
-  "versao": "2.253",
+  "versao": "2.254",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -299,7 +299,8 @@
     "FEVE MOD A4C": "FESIMP",
     "PA/AO": "APAo_str",
     "E/A' Lat": "EmpAmp_str",
-    "PA": "DiamAP"
+    "PA": "DiamAP",
+    "Velocid. E/A VM": "RelacaoEA_str"
   },
   "ignorar": [
     "LVID",
