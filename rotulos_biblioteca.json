@@ -1,5 +1,5 @@
 {
-  "versao": "2.258",
+  "versao": "2.259",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -303,7 +303,8 @@
     "Velocid. E/A VM": "RelacaoEA_str",
     "TV S'": "St",
     "FC(Teich)": "FC",
-    "VA PG": "GPAO"
+    "VA PG": "GPAO",
+    "GR mx RM": "GPRM"
   },
   "ignorar": [
     "LVID",
