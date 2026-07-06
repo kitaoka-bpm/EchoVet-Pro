@@ -1,5 +1,5 @@
 {
-  "versao": "2.256",
+  "versao": "2.257",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -302,7 +302,8 @@
     "PA": "DiamAP",
     "Velocid. E/A VM": "RelacaoEA_str",
     "TV S'": "St",
-    "FC(Teich)": "FC"
+    "FC(Teich)": "FC",
+    "VA PG": "GPAO"
   },
   "ignorar": [
     "LVID",
