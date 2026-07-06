@@ -1,5 +1,5 @@
 {
-  "versao": "2.254",
+  "versao": "2.255",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -300,7 +300,8 @@
     "PA/AO": "APAo_str",
     "E/A' Lat": "EmpAmp_str",
     "PA": "DiamAP",
-    "Velocid. E/A VM": "RelacaoEA_str"
+    "Velocid. E/A VM": "RelacaoEA_str",
+    "TV S'": "St"
   },
   "ignorar": [
     "LVID",
