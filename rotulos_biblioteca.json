@@ -1,5 +1,5 @@
 {
-  "versao": "2.244",
+  "versao": "2.245",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -292,7 +292,8 @@
     "V'máx RT": "VRT",
     "V'máx VP": "fluxoAP",
     "Vmáx RA": "VRA",
-    "DIVEdN": "VEdnorm_str"
+    "DIVEdN": "VEdnorm_str",
+    "VDFVE MOD A4C": "EDVsimp"
   },
   "ignorar": [
     "LVID",
