@@ -1,5 +1,5 @@
 {
-  "versao": "2.265",
+  "versao": "2.266",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -308,7 +308,8 @@
     "GPmáx VA": "GPAO",
     "EF VE": "FE",
     "VE Ds": "DIVEs",
-    "Dd VE": "DIVEd"
+    "Dd VE": "DIVEd",
+    "DSIV": "SIVd"
   },
   "ignorar": [
     "LVID",
