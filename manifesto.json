@@ -1,7 +1,7 @@
 {
-  "versao_app": "v.3.8.1",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.8.1/EchoVetPro.exe",
-  "hash_sha256": "c69d12b63e137606e2dcd14736b750453b38c88631cca9a17bd699c54bfac308",
+  "versao_app": "v.3.8.2",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.8.2/EchoVetPro.exe",
+  "hash_sha256": "b0af010f9fd78e3d2789477e5ceec1c02265ff35fe7db2c156c8fe6125572e3e",
   "url_assinar": "https://pay.kiwify.com.br/ilcLmlA",
-  "notas": "v.3.8.1 - Atualiza o link de assinatura (novo checkout, R$129). O link agora e lido do manifesto a cada abertura do app."
+  "notas": "v.3.8.2 - Retry automatico em falhas transitorias de rede/servidor ao importar exames (PDF e imagens). Identificacao da conta logada na barra lateral."
 }
