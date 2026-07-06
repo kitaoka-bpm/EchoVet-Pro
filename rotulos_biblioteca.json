@@ -1,5 +1,5 @@
 {
-  "versao": "2.238",
+  "versao": "2.239",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -291,7 +291,8 @@
     "EF(M)": "FE",
     "V'máx RT": "VRT",
     "V'máx VP": "fluxoAP",
-    "Vmáx RA": "VRA"
+    "Vmáx RA": "VRA",
+    "DIVEdN": "VEdnorm_str"
   },
   "ignorar": [
     "LVID",
