@@ -1,5 +1,5 @@
 {
-  "versao": "2.262",
+  "versao": "2.263",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -305,7 +305,8 @@
     "FC(Teich)": "FC",
     "VA PG": "GPAO",
     "GR mx RM": "GPRM",
-    "GPmáx VA": "GPAO"
+    "GPmáx VA": "GPAO",
+    "EF VE": "FE"
   },
   "ignorar": [
     "LVID",
