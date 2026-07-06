@@ -1,5 +1,5 @@
 {
-  "versao": "2.263",
+  "versao": "2.264",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -306,7 +306,8 @@
     "VA PG": "GPAO",
     "GR mx RM": "GPRM",
     "GPmáx VA": "GPAO",
-    "EF VE": "FE"
+    "EF VE": "FE",
+    "VE Ds": "DIVEs"
   },
   "ignorar": [
     "LVID",
