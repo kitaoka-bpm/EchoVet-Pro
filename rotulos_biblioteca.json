@@ -1,5 +1,5 @@
 {
-  "versao": "2.249",
+  "versao": "2.250",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -295,7 +295,8 @@
     "DIVEdN": "VEdnorm_str",
     "VDFVE MOD A4C": "EDVsimp",
     "CVEd A4C": "DIVEd",
-    "VSFVE MOD A4C": "ESVsimp"
+    "VSFVE MOD A4C": "ESVsimp",
+    "FEVE MOD A4C": "FESIMP"
   },
   "ignorar": [
     "LVID",
