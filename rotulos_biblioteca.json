@@ -1,5 +1,5 @@
 {
-  "versao": "2.241",
+  "versao": "2.242",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -489,7 +489,8 @@
     "VTI",
     "DIVEsN",
     "LAEDV (A-L)",
-    "LAEDVInd MOD BP"
+    "LAEDVInd MOD BP",
+    "LAEDV MOD BP"
   ],
   "config_blacklist": [
     "DP",
