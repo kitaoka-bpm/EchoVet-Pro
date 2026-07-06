@@ -1,5 +1,5 @@
 {
-  "versao": "2.248",
+  "versao": "2.249",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -496,7 +496,8 @@
     "LAEDV MOD BP",
     "VDFAE MOD A4C",
     "VDFAE (A-C A4C)",
-    "CVEs A4C"
+    "CVEs A4C",
+    "SV MOD A4C"
   ],
   "config_blacklist": [
     "DP",
