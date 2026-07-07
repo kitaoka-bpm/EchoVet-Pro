@@ -1,5 +1,5 @@
 {
-  "versao": "2.289",
+  "versao": "2.290",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -321,7 +321,8 @@
     "LAD/AoD": "AEAo_str",
     "LVIDdN": "VEdnorm_str",
     "LAD": "DiamAE",
-    "AoD": "DiamAo"
+    "AoD": "DiamAo",
+    "FC (1beat)": "FC"
   },
   "ignorar": [
     "LVID",
