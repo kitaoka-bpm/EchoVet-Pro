@@ -1,5 +1,5 @@
 {
-  "versao": "2.277",
+  "versao": "2.278",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -313,7 +313,8 @@
     "Vmáx RP": "VRP",
     "Tempo Des.": "TdesacE",
     "RP PG": "GPRP",
-    "Lat Vel S'": "Sm"
+    "Lat Vel S'": "Sm",
+    "LA/Ao(2D)": "AEAo_str"
   },
   "ignorar": [
     "LVID",
