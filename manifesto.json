@@ -1,7 +1,7 @@
 {
-  "versao_app": "v.3.8.2",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.8.2/EchoVetPro.exe",
-  "hash_sha256": "b0af010f9fd78e3d2789477e5ceec1c02265ff35fe7db2c156c8fe6125572e3e",
+  "versao_app": "v.3.8.3",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.8.3/EchoVetPro.exe",
+  "hash_sha256": "11fb9a8c70454454b7d0decf8547fc65f615d55a91fc92f9ff393e03c835d829",
   "url_assinar": "https://pay.kiwify.com.br/ilcLmlA",
-  "notas": "v.3.8.2 - Retry automatico em falhas transitorias de rede/servidor ao importar exames (PDF e imagens). Identificacao da conta logada na barra lateral."
+  "notas": "v.3.8.3 - Reposicionar imagens do laudo por arrastar na aba de Imagens do Exame. Aba Sobre renomeada para Suporte, com contato direto por e-mail e Telegram."
 }
