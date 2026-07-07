@@ -1,7 +1,7 @@
 {
-  "versao_app": "v.3.8.3",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.8.3/EchoVetPro.exe",
-  "hash_sha256": "11fb9a8c70454454b7d0decf8547fc65f615d55a91fc92f9ff393e03c835d829",
+  "versao_app": "v.3.8.4",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v3.8.4/EchoVetPro.exe",
+  "hash_sha256": "ed883ca05856ba05dbb270857cfd1dcfd6530408a33e188f2554299f7024380e",
   "url_assinar": "https://pay.kiwify.com.br/ilcLmlA",
-  "notas": "v.3.8.3 - Reposicionar imagens do laudo por arrastar na aba de Imagens do Exame. Aba Sobre renomeada para Suporte, com contato direto por e-mail e Telegram."
+  "notas": "v.3.8.4 - Botão 'Novo' para limpar o exame ativo com um clique. Identidade visual atualizada no menu lateral (logo e cores oficiais da marca)."
 }
