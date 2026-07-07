@@ -1,5 +1,5 @@
 {
-  "versao": "2.285",
+  "versao": "2.286",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -317,7 +317,8 @@
     "LA/Ao(2D)": "AEAo_str",
     "Grad. máx RM": "GPRM",
     "AV PGMax": "GPAO",
-    "TV PGMax": "GPRT"
+    "TV PGMax": "GPRT",
+    "LAD/AoD": "AEAo_str"
   },
   "ignorar": [
     "LVID",
