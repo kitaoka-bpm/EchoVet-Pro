@@ -1,5 +1,5 @@
 {
-  "versao": "2.272",
+  "versao": "2.273",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -520,7 +520,8 @@
     "Vméd VA",
     "DIVDd",
     "PHT",
-    "VDFAE MOD A2C"
+    "VDFAE MOD A2C",
+    "RPADDIASTOLE"
   ],
   "config_blacklist": [
     "DP",
