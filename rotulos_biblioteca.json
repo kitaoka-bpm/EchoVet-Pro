@@ -1,5 +1,5 @@
 {
-  "versao": "2.266",
+  "versao": "2.267",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -309,7 +309,8 @@
     "EF VE": "FE",
     "VE Ds": "DIVEs",
     "Dd VE": "DIVEd",
-    "DSIV": "SIVd"
+    "DSIV": "SIVd",
+    "Vmáx RP": "VRP"
   },
   "ignorar": [
     "LVID",
