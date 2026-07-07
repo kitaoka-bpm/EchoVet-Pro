@@ -1,5 +1,5 @@
 {
-  "versao": "2.296",
+  "versao": "2.297",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -328,7 +328,8 @@
     "E/Ea(Med)": "EEm",
     "Ea Medial": "Em",
     "Sa Medial": "Sm",
-    "A Vel": "OndaA"
+    "A Vel": "OndaA",
+    "LVOT PG": "GPAO"
   },
   "ignorar": [
     "LVID",
