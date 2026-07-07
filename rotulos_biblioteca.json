@@ -1,5 +1,5 @@
 {
-  "versao": "2.293",
+  "versao": "2.294",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -325,7 +325,8 @@
     "FC (1beat)": "FC",
     "Ea/Aa(Med)": "EmpAmp_str",
     "Aa Medial": "Am",
-    "E/Ea(Med)": "EEm"
+    "E/Ea(Med)": "EEm",
+    "Ea Medial": "Em"
   },
   "ignorar": [
     "LVID",
