@@ -1,5 +1,5 @@
 {
-  "versao": "2.282",
+  "versao": "2.283",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -530,7 +530,8 @@
     "3 PV Dec Time",
     "VRT",
     "PV Dec.Time",
-    "VSFAE MOD A4C"
+    "VSFAE MOD A4C",
+    "TV PGMean"
   ],
   "config_blacklist": [
     "DP",
