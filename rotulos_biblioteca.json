@@ -1,5 +1,5 @@
 {
-  "versao": "2.269",
+  "versao": "2.270",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -517,7 +517,8 @@
     "TEVP",
     "GP md VA",
     "Vméd VA",
-    "DIVDd"
+    "DIVDd",
+    "PHT"
   ],
   "config_blacklist": [
     "DP",
