@@ -1,5 +1,5 @@
 {
-  "versao": "2.298",
+  "versao": "2.299",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -330,7 +330,8 @@
     "Sa Medial": "Sm",
     "A Vel": "OndaA",
     "LVOT PG": "GPAO",
-    "Vp Pulm": "fluxoAP"
+    "Vp Pulm": "fluxoAP",
+    "TRIM": "TRIV"
   },
   "ignorar": [
     "LVID",
