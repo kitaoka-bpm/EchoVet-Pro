@@ -1,5 +1,5 @@
 {
-  "versao": "2.309",
+  "versao": "2.310",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -336,7 +336,8 @@
     "e'e": "EEm",
     "E' A'": "EmpAmp_str",
     "E/E Lat": "EEm",
-    "MR:dp/dt": "DPDT"
+    "MR:dp/dt": "DPDT",
+    "IVEs": "DIVEs"
   },
   "ignorar": [
     "LVID",
