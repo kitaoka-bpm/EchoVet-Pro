@@ -1,5 +1,5 @@
 {
-  "versao": "2.304",
+  "versao": "2.305",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -333,7 +333,8 @@
     "Vp Pulm": "fluxoAP",
     "TRIM": "TRIV",
     "FC(beat)": "FC",
-    "e'e": "EEm"
+    "e'e": "EEm",
+    "E' A'": "EmpAmp_str"
   },
   "ignorar": [
     "LVID",
