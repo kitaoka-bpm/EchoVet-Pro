@@ -1,5 +1,5 @@
 {
-  "versao": "2.312",
+  "versao": "2.313",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -339,7 +339,8 @@
     "MR:dp/dt": "DPDT",
     "IVEs": "DIVEs",
     "máxPG RP": "GPRP",
-    "TR Max PG": "GPRT"
+    "TR Max PG": "GPRT",
+    "Grad. máx RT": "GPRT"
   },
   "ignorar": [
     "LVID",
