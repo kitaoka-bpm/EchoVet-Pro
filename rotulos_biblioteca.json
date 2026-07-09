@@ -1,5 +1,5 @@
 {
-  "versao": "2.307",
+  "versao": "2.308",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -553,7 +553,8 @@
     "TV PGMean",
     "TV VMean",
     "LVIDsN",
-    "MV PGMean"
+    "MV PGMean",
+    "LAESV(A-L)"
   ],
   "config_blacklist": [
     "DP",
