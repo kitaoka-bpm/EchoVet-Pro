@@ -1,5 +1,5 @@
 {
-  "versao": "2.323",
+  "versao": "2.324",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -349,7 +349,8 @@
     "sSIV": "SIVs",
     "PV Velocity": "fluxoAP",
     "SIVed": "SIVd",
-    "L/A": "DiamAE"
+    "L/A": "DiamAE",
+    "(DIVEDn)": "VEdnorm_str"
   },
   "ignorar": [
     "LVID",
