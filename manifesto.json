@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.4.1.6",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.1.6/EchoVetPro.exe",
-  "hash_sha256": "43bf904c1372cfac3ed8f822379431d7ea5edfed7121bf5b6a5133d940db4f36",
-  "notas": "Correcao: icone correto (logo EchoVet) nas janelas Nova Clinica e Gerenciar Clinicas."
+  "versao_app": "v.4.1.7",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.1.7/EchoVetPro.exe",
+  "hash_sha256": "c0a49cb494e2a6c9b337013906e51ffb6462a63a5cdbb272f625d955bb657448",
+  "notas": "Removida a opcao de trocar tema do programa - agora sempre no modo escuro (padrao)."
 }
