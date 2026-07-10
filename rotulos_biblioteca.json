@@ -1,5 +1,5 @@
 {
-  "versao": "2.324",
+  "versao": "2.325",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -570,7 +570,8 @@
     "MV PGMean",
     "LAESV(A-L)",
     "VSFAE (A-C A2C)",
-    "%S"
+    "%S",
+    "AREnd Max PG"
   ],
   "config_blacklist": [
     "DP",
