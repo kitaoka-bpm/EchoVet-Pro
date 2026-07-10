@@ -1,5 +1,5 @@
 {
-  "versao": "2.322",
+  "versao": "2.323",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -348,7 +348,8 @@
     "Tapose": "TAPSE",
     "sSIV": "SIVs",
     "PV Velocity": "fluxoAP",
-    "SIVed": "SIVd"
+    "SIVed": "SIVd",
+    "L/A": "DiamAE"
   },
   "ignorar": [
     "LVID",
