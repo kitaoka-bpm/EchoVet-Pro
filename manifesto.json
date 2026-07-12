@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.4.1.8",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.1.8/EchoVetPro.exe",
-  "hash_sha256": "88fadc37c0767f6cad4a613b2ea7365fd702fab8401fcca8f325853a1b5d861f",
-  "notas": "Novo tour de boas-vindas passo a passo, mostrando na pratica como usar o programa. Pode ser revisto em Suporte."
+  "versao_app": "v.4.1.9",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.1.9/EchoVetPro.exe",
+  "hash_sha256": "9a5e6498b369dafe0eda6aeedf16b7b30ad9b72cd6132e2bd80d6771ccae3a7c",
+  "notas": "Corrige laudo/PDF saindo sem imagens quando a origem (pendrive, pasta de rede) fica indisponivel apos carregar. Imagens agora sao salvas localmente assim que carregadas."
 }
