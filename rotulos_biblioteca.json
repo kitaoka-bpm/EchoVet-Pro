@@ -1,5 +1,5 @@
 {
-  "versao": "2.327",
+  "versao": "2.328",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -573,7 +573,8 @@
     "%S",
     "AREnd Max PG",
     "AREnd Vmax",
-    "A4C LALd"
+    "A4C LALd",
+    "VTI VSVD"
   ],
   "config_blacklist": [
     "DP",
