@@ -1,5 +1,5 @@
 {
-  "versao": "2.332",
+  "versao": "2.333",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -578,7 +578,8 @@
     "VTI VSVD",
     "Vméd VM",
     "Env. Ti VSVD",
-    "Grad. méd VSVD"
+    "Grad. méd VSVD",
+    "Vméd VSVD"
   ],
   "config_blacklist": [
     "DP",
