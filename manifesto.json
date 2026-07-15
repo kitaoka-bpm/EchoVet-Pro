@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.4.2.1",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.2.1/EchoVetPro.exe",
-  "hash_sha256": "fc3881b3aa4a1623a31e7969c59ab1434dcf062d7546b0adc7c7aba5e5a5eb32",
-  "notas": "Corrige folha em branco no laudo (paginacao automatica + espacos ajustaveis + marcador visual de fim de folha A4) e campos ausentes no preset 2 (Movimento SIV/PLVE, Camaras Direitas)."
+  "versao_app": "v.4.2.2",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.2.2/EchoVetPro.exe",
+  "hash_sha256": "2b87f131afc2a47424b54c88c3951507077999cc38193e7ed356ff4cd0fcbd7c",
+  "notas": "Auto-update mais confiavel: banner de atualizacao pendente no programa, instalacao por renomeacao e manifesto em 3 fontes independentes."
 }
