@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.4.2.3",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.2.3/EchoVetPro.exe",
-  "hash_sha256": "1205c681f17fb060acc73f3ea65a06b4fda5916dd545f123ff3f53540a44f2e6",
-  "notas": "Corrige limpeza do arquivo .old (deixava resto visivel na area de trabalho) e adiciona campo Peso no cabecalho de todas as paginas do laudo."
+  "versao_app": "v.4.2.4",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.2.4/EchoVetPro.exe",
+  "hash_sha256": "2a6974e99962389c1b392d40dcfaaf1455651a7e3b41f236ce23bad52623cfc4",
+  "notas": "v.4.2.4 - Exames salvos mais seguros: migracao para Documentos (pasta antiga preservada como backup), correcao do salvamento de edicoes em laudos com imagens, aviso na lista de exames com arquivo ausente e resgate dos laudos salvos nas v.3.8.3/3.8.4."
 }
