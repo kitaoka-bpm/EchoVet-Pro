@@ -1,5 +1,5 @@
 {
-  "versao": "2.334",
+  "versao": "2.335",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -352,7 +352,8 @@
     "L/A": "DiamAE",
     "(DIVEDn)": "VEdnorm_str",
     "E'/e'": "EEm",
-    "EF": "FE"
+    "EF": "FE",
+    "S Lateral": "Sm"
   },
   "ignorar": [
     "LVID",
