@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.4.2.5",
+  "versao_app": "0.0.0",
   "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.2.5/EchoVetPro.exe",
   "hash_sha256": "c1b1041424ae5a7c0d8009596f9b3b776e525f42a31476104d5d4fc35798b4c5",
-  "notas": "v.4.2.5 - Correcao critica: o botao Novo apagava do disco o exame que acabou de ser salvo, deixando o registro sem o laudo. Atualize assim que possivel."
+  "notas": "PARADA DE EMERGENCIA 2026-07-25: versao_app neutralizada de proposito. O antivirus estava apagando o exe recem-baixado; a excecao deixava viva a janela Tk do updater, que virava o _default_root e derrubava o app na abertura com 'image pyimageN doesnt exist'. Com versao_app baixa, o app sai da checagem ANTES de criar essa janela e volta a abrir normalmente. RESTAURAR para a versao real assim que o download deixar de ser bloqueado e a v.4.2.6 (com a correcao definitiva) estiver publicada."
 }
