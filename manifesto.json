@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.4.2.6",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.2.6/EchoVetPro.exe",
-  "hash_sha256": "68c4a0c90595d44462f9f0c3896f26b84fa57a76043078b242298bbed1231355",
-  "notas": "v.4.2.6 - Corrige o instalador sendo apagado pelo antivirus durante o download e o programa fechando sozinho na abertura. Inclui a correcao do botao Novo, que apagava o exame recem-salvo."
+  "versao_app": "v.4.2.7",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.2.7/EchoVetPro.exe",
+  "hash_sha256": "91cffc66bdf56cb4347ab1ea14a48c365596de7a0b80b43c6721888314016534",
+  "notas": "v.4.2.7 - Modo 4: imagens na mesma pagina da tabela de medidas agora vao para a galeria do laudo (antes eram ignoradas)."
 }
