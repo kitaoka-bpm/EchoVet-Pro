@@ -1,5 +1,5 @@
 {
-  "versao": "2.343",
+  "versao": "2.344",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -409,8 +409,6 @@
   },
   "ignorar": [
     "LVID",
-    "LA",
-    "Ao",
     "SV(M-Teich)",
     "SI(M-Teich)",
     "LVIDd Index(M)",
