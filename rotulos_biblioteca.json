@@ -1,5 +1,5 @@
 {
-  "versao": "2.338",
+  "versao": "2.339",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -400,7 +400,8 @@
     "ITV Ao": "VTIAo",
     "RDAPmín": "RDAPmin",
     "lpm": "FC",
-    "Frec cardíaca": "FC"
+    "Frec cardíaca": "FC",
+    "AO": "DiamAo"
   },
   "ignorar": [
     "LVID",
