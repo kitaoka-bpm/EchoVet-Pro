@@ -1,5 +1,5 @@
 {
-  "versao": "2.341",
+  "versao": "2.342",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -403,7 +403,8 @@
     "Frec cardíaca": "FC",
     "AO": "DiamAo",
     "LA": "DiamAE",
-    "LA:": "DiamAE"
+    "LA:": "DiamAE",
+    "AO:": "DiamAo"
   },
   "ignorar": [
     "LVID",
