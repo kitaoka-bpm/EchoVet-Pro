@@ -1,5 +1,5 @@
 {
-  "versao": "2.345",
+  "versao": "2.346",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -417,7 +417,8 @@
     "LA": "DiamAE",
     "LA:": "DiamAE",
     "AO:": "DiamAo",
-    "ao:": "DiamAo"
+    "ao:": "DiamAo",
+    "et": "TE"
   },
   "ignorar": [
     "LVID",
