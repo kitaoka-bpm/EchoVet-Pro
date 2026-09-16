@@ -1,5 +1,5 @@
 {
-  "versao": "2.351",
+  "versao": "2.352",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -637,7 +637,8 @@
     "LVIDs/N(M)",
     "LVd Index(M)",
     "%LVIDd Index(M)",
-    "LVIDs.Index(M)"
+    "LVIDs.Index(M)",
+    "LVIDsN(M)"
   ],
   "config_blacklist": [
     "DP",
