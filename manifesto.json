@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.4.2.9",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.2.9/EchoVetPro.exe",
-  "hash_sha256": "2c7e22309a205e1c716142c60c14f65b94979dc166bee4fcdbd8c15b2f9ea341",
-  "notas": "v.4.2.9 - Corrige a ordenacao da lista de Exames Salvos: exames recentes com dia 01-09 do mes estavam sendo empurrados para o fim da lista por um bug de ordenacao por texto em vez de data."
+  "versao_app": "v.4.3.0",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.3.0/EchoVetPro.exe",
+  "hash_sha256": "8953ba62d92cbb1bd2c857e9a0deda987e9b6de011db4a55eaa77b8c2bd61b63",
+  "notas": "v.4.3.0 - Padroniza a data exibida e a ordenacao na lista de Exames Salvos, mesmo quando a data foi digitada em formato diferente do padrao (ano com 2 digitos, hora colada junto)."
 }
