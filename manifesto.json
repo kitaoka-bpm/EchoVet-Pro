@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.4.2.8",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.2.8/EchoVetPro.exe",
-  "hash_sha256": "b8401642032d30450518a5ba105420b52da890282fa8d0e883e8e37211ca4973",
-  "notas": "v.4.2.8 - Nova medida TA/TE (Doppler pulmonar), oculta por padrao (ativar em Configuracoes > Medidas). Corrige preset 2 do laudo, que nao incluia medidas manuais adicionadas via +."
+  "versao_app": "v.4.2.9",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.2.9/EchoVetPro.exe",
+  "hash_sha256": "2c7e22309a205e1c716142c60c14f65b94979dc166bee4fcdbd8c15b2f9ea341",
+  "notas": "v.4.2.9 - Corrige a ordenacao da lista de Exames Salvos: exames recentes com dia 01-09 do mes estavam sendo empurrados para o fim da lista por um bug de ordenacao por texto em vez de data."
 }
