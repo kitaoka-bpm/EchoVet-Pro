@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.4.3.0",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.3.0/EchoVetPro.exe",
-  "hash_sha256": "8953ba62d92cbb1bd2c857e9a0deda987e9b6de011db4a55eaa77b8c2bd61b63",
-  "notas": "v.4.3.0 - Padroniza a data exibida e a ordenacao na lista de Exames Salvos, mesmo quando a data foi digitada em formato diferente do padrao (ano com 2 digitos, hora colada junto)."
+  "versao_app": "v.4.3.2",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.3.2/EchoVetPro.exe",
+  "hash_sha256": "6da9df42b16070597a8efc146abe01679fabe162e2fce3d4092915604069c3eb",
+  "notas": "v.4.3.2 - Perfis de laudo: guarde logo, dados da empresa e marca d'agua de cada lugar onde voce atende e troque de perfil com um clique no menu lateral. Sua configuracao atual vira o Perfil 1, sem perder nada."
 }
