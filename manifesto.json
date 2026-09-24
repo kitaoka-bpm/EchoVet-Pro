@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.4.3.4",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.3.4/EchoVetPro.exe",
-  "hash_sha256": "9f0a2c5d2eb0aefdb186e58d4003259fc4dd1daa72cc1b87b75553de19968f72",
-  "notas": "v.4.3.4 - A copia das suas configuracoes na conta agora junta o que esta no seu computador com o que ja estava la (versao web ou outro computador), sem perder nada de nenhum lado."
+  "versao_app": "v.4.3.5",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.3.5/EchoVetPro.exe",
+  "hash_sha256": "6b6394c522823d405536ebfd6d27f9cf61d502575213e66b2452054c8fc04f63",
+  "notas": "v.4.3.5 - Correcao: a copia das suas configuracoes na conta renova o acesso antes de enviar. Antes ela so funcionava logo depois do login."
 }
