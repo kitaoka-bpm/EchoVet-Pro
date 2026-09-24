@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.4.3.2",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.3.2/EchoVetPro.exe",
-  "hash_sha256": "6da9df42b16070597a8efc146abe01679fabe162e2fce3d4092915604069c3eb",
-  "notas": "v.4.3.2 - Perfis de laudo: guarde logo, dados da empresa e marca d'agua de cada lugar onde voce atende e troque de perfil com um clique no menu lateral. Sua configuracao atual vira o Perfil 1, sem perder nada."
+  "versao_app": "v.4.3.3",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.3.3/EchoVetPro.exe",
+  "hash_sha256": "02a43ebbe65f254a7fe55e296e523ba29b768ef8cf6303e6d5a1dca54f2ad681",
+  "notas": "v.4.3.3 - Suas configuracoes passam a ser guardadas tambem na sua conta: perfis de laudo, logo, marca d'agua, assinatura, medidas que voce usa e banco de frases. Serve de copia de seguranca e deixa a versao web ja configurada. Nada muda no seu computador."
 }
