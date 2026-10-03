@@ -1,5 +1,5 @@
 {
-  "versao": "2.355",
+  "versao": "2.356",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -659,7 +659,6 @@
     "iClear",
     "PW",
     "TVI",
-    "TD",
     "MI",
     "TI",
     "CW"
