@@ -1,5 +1,5 @@
 {
-  "versao": "2.356",
+  "versao": "2.357",
   "rotulos": {
     "IVSd": "SIVd",
     "IVSTd": "SIVd",
@@ -337,6 +337,7 @@
     "E' A'": "EmpAmp_str",
     "E/E Lat": "EEm",
     "MR:dp/dt": "DPDT",
+    "MR Dp/Dt": "DPDT",
     "IVEs": "DIVEs",
     "máxPG RP": "GPRP",
     "TR Max PG": "GPRT",
@@ -644,7 +645,6 @@
     "LVIDsN(M)"
   ],
   "config_blacklist": [
-    "DP",
     "AP",
     "AP%",
     "DG",
