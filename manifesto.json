@@ -1,6 +1,6 @@
 {
-  "versao_app": "v.4.3.7",
-  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.3.7/EchoVetPro.exe",
-  "hash_sha256": "92fc5dba1e36a6b38a7f099a471cea9421edca4d12ce990e3a313e542d000fc8",
-  "notas": "v.4.3.7 - Correcao: PDFs de exame em que as imagens ficam na mesma pagina da tabela de medidas agora carregam as imagens junto com os valores. Antes so os valores eram lidos."
+  "versao_app": "v.4.3.8",
+  "url_instalador": "https://github.com/kitaoka-bpm/EchoVet-Pro/releases/download/v4.3.8/EchoVetPro.exe",
+  "hash_sha256": "4f403900d69bf4ac19c75b839cce5aca6cd0d31173a753fe645ef1fb08658c27",
+  "notas": "v.4.3.8 - Novidades: agora e possivel arrastar com o mouse os botoes dos bancos de frases para mudar a ordem; as datas dos Relatorios (grafico e PDF) ficam padronizadas, mesmo digitadas em formatos diferentes. Correcao: o PDF do laudo nao sai mais com pagina em branco no meio quando a escala de tela do Windows esta em 150% ou 175%. Laudos salvos antes precisam ser gerados de novo."
 }
